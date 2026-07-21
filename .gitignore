@@ -1,0 +1,21 @@
+# --- Python / backend ---
+backend/.venv/
+**/__pycache__/
+*.pyc
+.env
+.pytest_cache/
+*.egg-info/
+
+# --- Node / frontend ---
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.local
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Cached model weights (regenerated on first run, don't commit) ---
+backend/.cache/
