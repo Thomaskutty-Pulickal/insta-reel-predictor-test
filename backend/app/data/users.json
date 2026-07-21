@@ -1,0 +1,16 @@
+[
+  {
+    "id": "messi_fan",
+    "name": "Messi Fan",
+    "avatar_emoji": "🇦🇷",
+    "likes": ["Messi", "Argentina", "Barcelona", "World Cup"],
+    "dislikes": ["Ronaldo", "Portugal"]
+  },
+  {
+    "id": "ronaldo_fan",
+    "name": "Ronaldo Fan",
+    "avatar_emoji": "🇵🇹",
+    "likes": ["Ronaldo", "Portugal", "Champions League", "Gym"],
+    "dislikes": ["Messi", "Argentina"]
+  }
+]
