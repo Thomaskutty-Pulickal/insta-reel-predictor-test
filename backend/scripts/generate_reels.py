@@ -44,8 +44,8 @@ CATEGORIES = {
         "tags": ["football", "soccer", "tactics", "goals", "skills", "matchday"],
     },
     "Messi": {
-        "emoji": "\U0001f436",
-        "color": "#75aadb",
+        "emoji": "\U0001f410",
+        "color": "#38bdf8",
         "creators": ["LeoClips10", "GOATarchive", "BarcaLegends", "MessiMoments", "InterMiamiCF"],
         "titles": [
             "Messi's {adj} dribble vs three defenders",
@@ -57,7 +57,7 @@ CATEGORIES = {
             "Messi's quietest, deadliest skill",
         ],
         "captions": [
-            "There will never be another one \U0001f436",
+            "There will never be another one \U0001f410",
             "The GOAT debate ends here",
             "Small guy, biggest impact on the game",
             "Studying Messi's footwork frame by frame",
@@ -66,7 +66,7 @@ CATEGORIES = {
         "tags": ["messi", "goat", "barcelona", "argentina", "football", "worldcup"],
     },
     "Ronaldo": {
-        "emoji": "\U0001f1f5\U0001f1f9",
+        "emoji": "7️⃣",
         "color": "#dc2626",
         "creators": ["CR7Archive", "SiuMoments", "AlNassrClips", "JuveLegacy", "ManUtdVault"],
         "titles": [
@@ -110,7 +110,7 @@ CATEGORIES = {
     },
     "Portugal": {
         "emoji": "\U0001f1f5\U0001f1f9",
-        "color": "#dc2626",
+        "color": "#22c55e",
         "creators": ["LisbonLive", "PortoDaily", "AlgarveClips", "PortugalFC", "AzulejosTV"],
         "titles": [
             "Lisbon's hidden viewpoints you're missing",

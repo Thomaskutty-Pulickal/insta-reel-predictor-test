@@ -83,7 +83,7 @@ phase-by-phase progress:
 cd backend
 uv venv .venv && source .venv/bin/activate
 uv pip install -r requirements.txt
-uvicorn app.main:app --reload
+uvicorn app.main:app --reload --port 8010
 ```
 
 **Frontend**
