@@ -9,9 +9,12 @@ import json
 from functools import lru_cache
 from pathlib import Path
 
+import numpy as np
+
 from app.models.reel import Reel
 from app.models.user import UserProfile
 from app.services.embedding_service import compute_reel_embeddings, compute_user_seed_embedding
+from app.services.interest_service import compute_category_centroids
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
@@ -28,6 +31,9 @@ class DataStore:
         for user in self.list_users():
             compute_user_seed_embedding(user)
 
+        # Depends on reel embeddings above, so it's computed last.
+        self._category_centroids: dict[str, np.ndarray] = compute_category_centroids(self.list_reels())
+
     def get_reel(self, reel_id: str) -> Reel | None:
         return self._reels.get(reel_id)
 
@@ -39,6 +45,9 @@ class DataStore:
 
     def list_users(self) -> list[UserProfile]:
         return list(self._users.values())
+
+    def get_category_centroids(self) -> dict[str, np.ndarray]:
+        return self._category_centroids
 
 
 def _load_reels() -> dict[str, Reel]:
