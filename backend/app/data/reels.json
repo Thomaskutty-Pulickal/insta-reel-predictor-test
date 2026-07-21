@@ -1,589 +1,37 @@
 [
   {
-    "id": "reel_164",
-    "title": "The director's commentary detail nobody catches",
-    "creator": "ScoreTalk",
-    "caption": "Forty takes for twelve seconds of footage",
-    "tags": [
-      "cinema",
-      "directorscut",
-      "screenplay",
-      "film"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_057",
-    "title": "Lisbon's hidden viewpoints you're missing",
-    "creator": "AlgarveClips",
-    "caption": "This pastry ends every argument",
-    "tags": [
-      "culture",
-      "lisbon",
-      "algarve",
-      "portugal",
-      "travel",
-      "porto"
-    ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
-  },
-  {
-    "id": "reel_139",
-    "title": "POV: it's quiet and Monday at the same time",
-    "creator": "RelatableClips",
-    "caption": "Sending this to the group chat immediately",
-    "tags": [
-      "relatable",
-      "comedy",
-      "funny"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_170",
-    "title": "Emergency fund math, simplified",
-    "creator": "CashflowClips",
-    "caption": "Numbers don't lie, plans do",
-    "tags": [
-      "moneytips",
-      "compoundinterest",
-      "finance",
-      "budgeting",
-      "personalfinance"
-    ],
-    "category": "Finance",
-    "thumbnail_emoji": "💰",
-    "thumbnail_color": "#059669"
-  },
-  {
-    "id": "reel_099",
-    "title": "Embeddings explained with one diagram",
-    "creator": "PromptLab",
-    "caption": "Production ML is 80% data plumbing, and that's fine",
-    "tags": [
-      "nlp",
-      "deeplearning",
-      "recommendersystems",
-      "embeddings",
-      "ai"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_199",
-    "title": "The stare that means 'feed me now'",
-    "creator": "PurrCastTV",
-    "caption": "One week in and already the boss",
-    "tags": [
-      "catlife",
-      "catsofinstagram",
-      "cats",
-      "kitten"
-    ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
-  },
-  {
-    "id": "reel_147",
-    "title": "Grandma's recipe, finally written down",
-    "creator": "FiveIngredients",
-    "caption": "Cooking should be this simple 🍜",
-    "tags": [
-      "food",
-      "recipe",
-      "foodie",
-      "cooking",
-      "homecooking"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_131",
-    "title": "Rating relatable moments out of 10",
-    "creator": "MondayMoodTV",
-    "caption": "Sending this to the group chat immediately",
-    "tags": [
-      "humor",
-      "comedy",
-      "relatable"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_091",
-    "title": "Explaining recursion with a whiteboard",
-    "creator": "TerminalTales",
-    "caption": "Shipped it, broke it, fixed it, learned it",
-    "tags": [
-      "programming",
-      "debugging",
-      "cleancode",
-      "coding",
-      "softwareengineering"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_052",
-    "title": "How mate became a national ritual",
-    "creator": "TangoNights",
-    "caption": "Buenos Aires never sleeps during a final",
-    "tags": [
-      "buenosaires",
-      "argentina",
-      "tango",
-      "worldcup",
-      "southamerica",
-      "albiceleste"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_025",
-    "title": "Messi's underrated dribble vs three defenders",
-    "creator": "LeoClips10",
-    "caption": "Studying Messi's footwork frame by frame",
-    "tags": [
-      "football",
-      "worldcup",
-      "messi",
-      "barcelona"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_183",
-    "title": "The zoomies compilation you needed today",
-    "creator": "RescueTailsTV",
-    "caption": "From shelter to spoiled in record time",
-    "tags": [
-      "puppy",
-      "adoptdontshop",
-      "dogs",
-      "doglife",
-      "goodboy"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_180",
-    "title": "Senior dog's underrated reaction to the beach",
-    "creator": "ShelterStories",
-    "caption": "Golden retriever tax has been paid",
-    "tags": [
-      "rescue",
-      "goodboy",
-      "puppy",
-      "doglife"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_115",
-    "title": "Animation breakdown: this fight scene, frame by frame",
-    "creator": "OpeningsArchive",
-    "caption": "That OST hits different at 2am",
-    "tags": [
-      "anime",
-      "manga",
-      "shonen"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
-    "id": "reel_156",
-    "title": "The ending that recontextualizes everything",
-    "creator": "CutRoomFloor",
-    "caption": "The score is doing more work than the dialogue",
-    "tags": [
-      "cinema",
-      "screenplay",
-      "film",
-      "movies"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_012",
-    "title": "underrated free-kick technique tutorial",
-    "creator": "TikiTakaDaily",
-    "caption": "Studied this move for a week, still can't do it",
-    "tags": [
-      "matchday",
-      "tactics",
-      "soccer"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_130",
-    "title": "Packing light for a month abroad",
-    "creator": "OffThePathTV",
-    "caption": "The best meals are always the unplanned ones",
-    "tags": [
-      "backpacking",
-      "explore",
-      "wanderlust",
-      "citylife",
-      "travel"
-    ],
-    "category": "Travel",
-    "thumbnail_emoji": "✈️",
-    "thumbnail_color": "#0ea5e9"
-  },
-  {
-    "id": "reel_028",
-    "title": "Why Messi never needed pace",
-    "creator": "GOATarchive",
-    "caption": "There will never be another one 🐐",
-    "tags": [
-      "barcelona",
-      "goat",
-      "argentina",
-      "worldcup",
-      "football"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_065",
-    "title": "Fado music and why it hits so hard",
-    "creator": "AzulejosTV",
-    "caption": "A pequena grande nação 🇵🇹",
-    "tags": [
-      "culture",
-      "lisbon",
-      "algarve",
-      "portugal",
-      "porto"
-    ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
-  },
-  {
-    "id": "reel_125",
-    "title": "The overnight train route worth the discomfort",
-    "creator": "BackpackDiaries",
-    "caption": "Budget travel doesn't mean a worse trip",
-    "tags": [
-      "backpacking",
-      "adventure",
-      "travel"
-    ],
-    "category": "Travel",
-    "thumbnail_emoji": "✈️",
-    "thumbnail_color": "#0ea5e9"
-  },
-  {
-    "id": "reel_186",
-    "title": "Golden retriever tax, collected",
-    "creator": "RescueTailsTV",
-    "caption": "Golden retriever tax has been paid",
-    "tags": [
-      "adoptdontshop",
-      "puppy",
-      "goodboy"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_195",
-    "title": "Cat vs cucumber, the sequel nobody asked for",
-    "creator": "CatCafeDaily",
-    "caption": "She owns the apartment, I just pay rent 🐱",
-    "tags": [
-      "cats",
-      "kitten",
-      "catlife"
-    ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
-  },
-  {
-    "id": "reel_051",
-    "title": "Patagonia's most underrated hiking trail",
-    "creator": "MateAndFutbol",
-    "caption": "This country doesn't do quiet celebrations",
-    "tags": [
-      "argentina",
-      "buenosaires",
-      "tango",
-      "albiceleste"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_050",
-    "title": "Patagonia's most underrated hiking trail",
-    "creator": "AlbicelesteTV",
-    "caption": "Buenos Aires never sleeps during a final",
-    "tags": [
-      "buenosaires",
-      "tango",
-      "albiceleste",
-      "worldcup",
-      "argentina",
-      "southamerica"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_104",
-    "title": "Online learning vs batch training, compared",
-    "creator": "TransformerTalks",
-    "caption": "Cosine similarity in one sentence: direction, not distance",
-    "tags": [
-      "ai",
-      "machinelearning",
-      "embeddings",
-      "nlp",
-      "recommendersystems"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_090",
-    "title": "Clean code principle you're probably ignoring",
-    "creator": "TerminalTales",
-    "caption": "It was a missing semicolon. It's always a missing semicolon.",
-    "tags": [
-      "devlife",
-      "cleancode",
-      "programming",
-      "coding",
-      "debugging"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_112",
-    "title": "Animation breakdown: this fight scene, frame by frame",
-    "creator": "OpeningsArchive",
-    "caption": "Still not over this ending",
-    "tags": [
-      "anime",
-      "otaku",
-      "manga",
-      "animation",
-      "opening"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
-    "id": "reel_101",
-    "title": "Embeddings explained with one diagram",
-    "creator": "PromptLab",
-    "caption": "The vector space is where the magic happens 🤖",
-    "tags": [
-      "machinelearning",
-      "ai",
-      "recommendersystems",
-      "deeplearning",
-      "embeddings"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_023",
-    "title": "Messi's brutal dribble vs three defenders",
-    "creator": "MessiMoments",
-    "caption": "Small guy, biggest impact on the game",
-    "tags": [
-      "goat",
-      "worldcup",
-      "barcelona",
-      "messi",
-      "argentina",
-      "football"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_092",
-    "title": "Clean code principle you're probably ignoring",
-    "creator": "DevByDay",
-    "caption": "Shipped it, broke it, fixed it, learned it",
-    "tags": [
-      "softwareengineering",
-      "coding",
-      "cleancode",
-      "devlife",
-      "programming",
-      "debugging"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_017",
-    "title": "Why Messi never needed pace",
-    "creator": "LeoClips10",
-    "caption": "There will never be another one 🐐",
-    "tags": [
-      "goat",
-      "messi",
-      "football"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_182",
-    "title": "Training trick that finally stopped the pulling",
-    "creator": "ShelterStories",
-    "caption": "Golden retriever tax has been paid",
-    "tags": [
-      "adoptdontshop",
-      "rescue",
-      "dogs"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_194",
-    "title": "Rescue cat's first week, day by day",
-    "creator": "LapCatClips",
-    "caption": "One week in and already the boss",
-    "tags": [
-      "catmom",
-      "kitten",
-      "catlife"
-    ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
-  },
-  {
-    "id": "reel_074",
-    "title": "The insane form fix that saved my shoulders",
-    "creator": "GymRatDiaries",
-    "caption": "The unsexy basics still win",
-    "tags": [
-      "gym",
-      "fitness",
-      "discipline"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_111",
-    "title": "The soundtrack cue that hits every time",
-    "creator": "ArcReview",
-    "caption": "Best written villain in the genre, fight me",
-    "tags": [
-      "shonen",
-      "otaku",
-      "opening",
-      "anime",
-      "animation"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
     "id": "reel_042",
-    "title": "SIU celebration compilation 2022",
-    "creator": "SiuMoments",
-    "caption": "The work ethic nobody talks enough about",
+    "title": "Brutal ronaldo's mentality in his own words",
+    "creator": "JuveLegacy",
+    "caption": "This is what 20 years at the top looks like",
     "tags": [
-      "cr7",
-      "ronaldo",
       "siu",
-      "football"
+      "cr7",
+      "ronaldo"
     ],
     "category": "Ronaldo",
     "thumbnail_emoji": "7️⃣",
     "thumbnail_color": "#dc2626"
   },
   {
-    "id": "reel_187",
-    "title": "The zoomies compilation you needed today",
-    "creator": "ParkDayLog",
-    "caption": "From shelter to spoiled in record time",
+    "id": "reel_047",
+    "title": "Clean patagonia's most underrated hiking trail",
+    "creator": "MateAndFutbol",
+    "caption": "Mate at dawn, football at dusk",
     "tags": [
-      "dogs",
-      "doglife",
-      "adoptdontshop",
-      "goodboy",
-      "puppy"
+      "worldcup",
+      "southamerica",
+      "albiceleste",
+      "tango",
+      "argentina",
+      "buenosaires"
     ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
   },
   {
-    "id": "reel_072",
-    "title": "Why progressive overload is non-negotiable",
-    "creator": "ProgressiveOverload",
-    "caption": "The unsexy basics still win",
-    "tags": [
-      "lifting",
-      "fitness",
-      "gym",
-      "gains"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_036",
+    "id": "reel_034",
     "title": "SIU celebration compilation 2023",
     "creator": "JuveLegacy",
     "caption": "This is what 20 years at the top looks like",
@@ -599,249 +47,15 @@
     "thumbnail_color": "#dc2626"
   },
   {
-    "id": "reel_162",
-    "title": "The insane scene that took 40 takes",
-    "creator": "ScoreTalk",
-    "caption": "Practical effects still hit different",
-    "tags": [
-      "screenplay",
-      "filmmaking",
-      "movies",
-      "film"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_137",
-    "title": "Rating relatable moments out of 10",
-    "creator": "MondayMoodTV",
-    "caption": "This is unfortunately a documentary about my life",
-    "tags": [
-      "comedy",
-      "memes",
-      "funny",
-      "humor"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_002",
-    "title": "Derby day chaos: full recap",
-    "creator": "MatchdayClips",
-    "caption": "Studied this move for a week, still can't do it",
-    "tags": [
-      "skills",
-      "soccer",
-      "goals"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_157",
-    "title": "Why this score works without a single word",
-    "creator": "ScoreTalk",
-    "caption": "Cinema as an art form, not just entertainment 🎬",
-    "tags": [
-      "filmmaking",
-      "screenplay",
-      "film",
-      "cinema",
-      "movies"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_120",
-    "title": "The overnight train route worth the discomfort",
-    "creator": "SlowTravelLog",
+    "id": "reel_127",
+    "title": "Legendary packing light for a month abroad",
+    "creator": "OffThePathTV",
     "caption": "The best meals are always the unplanned ones",
     "tags": [
       "backpacking",
-      "travel",
-      "explore",
-      "adventure",
-      "wanderlust",
-      "citylife"
-    ],
-    "category": "Travel",
-    "thumbnail_emoji": "✈️",
-    "thumbnail_color": "#0ea5e9"
-  },
-  {
-    "id": "reel_184",
-    "title": "The zoomies compilation you needed today",
-    "creator": "PawPatrolClips",
-    "caption": "This trick took three weeks, worth every minute",
-    "tags": [
-      "doglife",
-      "rescue",
-      "puppy",
-      "dogs",
-      "adoptdontshop",
-      "goodboy"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_087",
-    "title": "The refactor that cut load time in half",
-    "creator": "DevByDay",
-    "caption": "Recursion finally clicked after this analogy",
-    "tags": [
-      "debugging",
-      "programming",
-      "softwareengineering"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_188",
-    "title": "Shelter dog to certified good boy: full glow-up",
-    "creator": "ShelterStories",
-    "caption": "Golden retriever tax has been paid",
-    "tags": [
-      "doglife",
-      "puppy",
-      "goodboy",
-      "rescue"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_155",
-    "title": "The legendary scene that took 40 takes",
-    "creator": "DirectorsCutTV",
-    "caption": "Forty takes for twelve seconds of footage",
-    "tags": [
-      "directorscut",
-      "cinema",
-      "screenplay"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_193",
-    "title": "3am zoomies, explained by an expert (the cat)",
-    "creator": "MidnightZoomies",
-    "caption": "This stare could end wars",
-    "tags": [
-      "catmom",
-      "kitten",
-      "cats"
-    ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
-  },
-  {
-    "id": "reel_197",
-    "title": "Why she only sits on this one chair",
-    "creator": "MidnightZoomies",
-    "caption": "One week in and already the boss",
-    "tags": [
-      "cats",
-      "catmom",
-      "catsofinstagram",
-      "catlife",
-      "kitten",
-      "funnycats"
-    ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
-  },
-  {
-    "id": "reel_129",
-    "title": "The overnight train route worth the discomfort",
-    "creator": "WanderClips",
-    "caption": "Budget travel doesn't mean a worse trip",
-    "tags": [
-      "travel",
-      "adventure",
       "explore",
       "wanderlust",
-      "backpacking"
-    ],
-    "category": "Travel",
-    "thumbnail_emoji": "✈️",
-    "thumbnail_color": "#0ea5e9"
-  },
-  {
-    "id": "reel_088",
-    "title": "The insane bug that took 6 hours to find",
-    "creator": "ShipItDaily",
-    "caption": "Shipped it, broke it, fixed it, learned it",
-    "tags": [
-      "debugging",
-      "programming",
-      "cleancode",
-      "softwareengineering",
-      "devlife"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_081",
-    "title": "The legendary form fix that saved my shoulders",
-    "creator": "GymRatDiaries",
-    "caption": "The unsexy basics still win",
-    "tags": [
-      "gains",
-      "discipline",
-      "fitness",
-      "workout",
-      "gym",
-      "lifting"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_150",
-    "title": "One-pan meal, minimal cleanup",
-    "creator": "SlowSimmer",
-    "caption": "Finally got the recipe in writing before it was lost",
-    "tags": [
-      "streetfood",
-      "food",
-      "homecooking",
-      "recipe",
-      "cooking"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_124",
-    "title": "48 hours in a city on a tight budget",
-    "creator": "PassportStamps",
-    "caption": "Slow mornings, new cities, no itinerary",
-    "tags": [
       "citylife",
-      "adventure",
-      "backpacking",
-      "explore",
-      "wanderlust",
       "travel"
     ],
     "category": "Travel",
@@ -849,129 +63,20 @@
     "thumbnail_color": "#0ea5e9"
   },
   {
-    "id": "reel_169",
-    "title": "The brutal compounding example that changes your mindset",
-    "creator": "CashflowClips",
-    "caption": "Emergency funds aren't exciting, they're essential",
+    "id": "reel_183",
+    "title": "Unbelievable the zoomies compilation you needed today",
+    "creator": "ParkDayLog",
+    "caption": "From shelter to spoiled in record time",
     "tags": [
-      "finance",
-      "budgeting",
-      "compoundinterest",
-      "personalfinance",
-      "moneytips"
+      "dogs",
+      "doglife",
+      "adoptdontshop",
+      "goodboy",
+      "puppy"
     ],
-    "category": "Finance",
-    "thumbnail_emoji": "💰",
-    "thumbnail_color": "#059669"
-  },
-  {
-    "id": "reel_076",
-    "title": "6 months natural transformation, no shortcuts",
-    "creator": "IronDaily",
-    "caption": "Consistency beats intensity long-term",
-    "tags": [
-      "lifting",
-      "gains",
-      "workout",
-      "fitness"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_067",
-    "title": "Lisbon's hidden viewpoints you're missing",
-    "creator": "LisbonLive",
-    "caption": "Fado gives me chills every time",
-    "tags": [
-      "lisbon",
-      "travel",
-      "porto",
-      "portugal"
-    ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
-  },
-  {
-    "id": "reel_168",
-    "title": "Why index funds beat most stock picks",
-    "creator": "CompoundDaily",
-    "caption": "Compound interest is the closest thing to magic 💰",
-    "tags": [
-      "budgeting",
-      "moneytips",
-      "compoundinterest",
-      "investing",
-      "finance"
-    ],
-    "category": "Finance",
-    "thumbnail_emoji": "💰",
-    "thumbnail_color": "#059669"
-  },
-  {
-    "id": "reel_166",
-    "title": "The iconic scene that took 40 takes",
-    "creator": "CutRoomFloor",
-    "caption": "Forty takes for twelve seconds of footage",
-    "tags": [
-      "screenplay",
-      "cinema",
-      "film",
-      "movies",
-      "filmmaking"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_094",
-    "title": "The insane gap between demo and production ML",
-    "creator": "EmbeddingSpace",
-    "caption": "This diagram made embeddings finally click",
-    "tags": [
-      "embeddings",
-      "recommendersystems",
-      "machinelearning",
-      "ai",
-      "nlp"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_009",
-    "title": "How top clubs are pressing in 2022",
-    "creator": "FullTimeFC",
-    "caption": "Matchday energy hits different",
-    "tags": [
-      "matchday",
-      "skills",
-      "goals",
-      "tactics",
-      "soccer"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_192",
-    "title": "Rescue cat's first week, day by day",
-    "creator": "LapCatClips",
-    "caption": "She owns the apartment, I just pay rent 🐱",
-    "tags": [
-      "catmom",
-      "funnycats",
-      "catsofinstagram",
-      "cats"
-    ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
   },
   {
     "id": "reel_001",
@@ -989,487 +94,55 @@
     "thumbnail_color": "#16a34a"
   },
   {
-    "id": "reel_007",
-    "title": "Nutmeg compilation that will make you cry",
-    "creator": "FullTimeFC",
-    "caption": "The beautiful game, one touch at a time",
-    "tags": [
-      "matchday",
-      "tactics",
-      "football",
-      "goals"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_010",
-    "title": "unbelievable free-kick technique tutorial",
-    "creator": "ProKicksTV",
-    "caption": "Football is a religion and this clip is proof ⚽",
-    "tags": [
-      "soccer",
-      "matchday",
-      "goals"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_005",
-    "title": "Tactical breakdown: the false nine explained",
-    "creator": "ProKicksTV",
-    "caption": "Football is a religion and this clip is proof ⚽",
-    "tags": [
-      "tactics",
-      "football",
-      "soccer",
-      "skills"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_068",
-    "title": "Porto's tile art explained in 30 seconds",
-    "creator": "AzulejosTV",
-    "caption": "Fado gives me chills every time",
-    "tags": [
-      "travel",
-      "algarve",
-      "culture",
-      "lisbon"
-    ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
-  },
-  {
-    "id": "reel_008",
-    "title": "The quiet skill move that broke the internet",
-    "creator": "MatchdayClips",
-    "caption": "Football is a religion and this clip is proof ⚽",
-    "tags": [
-      "soccer",
-      "goals",
-      "skills",
-      "tactics",
-      "matchday"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_140",
-    "title": "Text posts turned into a sketch",
-    "creator": "DailyDump",
-    "caption": "I did not write this but I felt it 🤣",
-    "tags": [
-      "funny",
-      "humor",
-      "comedy",
-      "memes",
-      "trending"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_153",
-    "title": "The sauce that fixes almost anything",
-    "creator": "FiveIngredients",
-    "caption": "Finally got the recipe in writing before it was lost",
-    "tags": [
-      "recipe",
-      "streetfood",
-      "cooking",
-      "food",
-      "homecooking",
-      "foodie"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_079",
-    "title": "Why progressive overload is non-negotiable",
-    "creator": "IronDaily",
-    "caption": "Six months of showing up, this is the result",
-    "tags": [
-      "discipline",
-      "workout",
-      "fitness"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_070",
-    "title": "The legendary form fix that saved my shoulders",
-    "creator": "IronDaily",
-    "caption": "The unsexy basics still win",
-    "tags": [
-      "gym",
-      "gains",
-      "workout",
-      "lifting"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_018",
-    "title": "Messi's quietest, deadliest skill",
-    "creator": "MessiMoments",
-    "caption": "Small guy, biggest impact on the game",
-    "tags": [
-      "football",
-      "goat",
-      "argentina",
-      "messi"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_171",
-    "title": "The budgeting rule that actually stuck",
-    "creator": "LedgerLogic",
-    "caption": "Boring investing is still the best investing",
-    "tags": [
-      "moneytips",
-      "finance",
-      "compoundinterest",
-      "budgeting",
-      "personalfinance",
-      "investing"
-    ],
-    "category": "Finance",
-    "thumbnail_emoji": "💰",
-    "thumbnail_color": "#059669"
-  },
-  {
-    "id": "reel_134",
-    "title": "POV: it's brutal and Monday at the same time",
-    "creator": "MondayMoodTV",
-    "caption": "This is unfortunately a documentary about my life",
-    "tags": [
-      "humor",
-      "comedy",
-      "funny",
-      "relatable",
-      "memes"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_022",
-    "title": "Messi's quietest, deadliest skill",
-    "creator": "MessiMoments",
-    "caption": "Studying Messi's footwork frame by frame",
-    "tags": [
-      "argentina",
-      "messi",
-      "goat",
-      "worldcup"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_059",
-    "title": "How pastel de nata is actually made",
-    "creator": "AlgarveClips",
-    "caption": "This pastry ends every argument",
-    "tags": [
-      "algarve",
-      "lisbon",
-      "porto",
-      "travel"
-    ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
-  },
-  {
-    "id": "reel_080",
-    "title": "Recovery routine of a legendary lifter",
-    "creator": "LiftLab",
-    "caption": "The unsexy basics still win",
-    "tags": [
-      "fitness",
-      "gym",
-      "gains"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_133",
-    "title": "POV: it's insane and Monday at the same time",
-    "creator": "RelatableClips",
-    "caption": "Screenshotting this for later",
-    "tags": [
-      "funny",
-      "humor",
-      "trending",
-      "relatable",
-      "memes",
-      "comedy"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_033",
-    "title": "SIU celebration compilation 2024",
-    "creator": "AlNassrClips",
-    "caption": "Discipline is a lifestyle, not a phase 🇵🇹",
-    "tags": [
-      "siu",
-      "cr7",
-      "alnassr",
-      "ronaldo",
-      "portugal",
-      "football"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
-    "id": "reel_044",
-    "title": "Ronaldo's mentality in his own words",
-    "creator": "JuveLegacy",
-    "caption": "This is what 20 years at the top looks like",
-    "tags": [
-      "siu",
-      "cr7",
-      "ronaldo"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
-    "id": "reel_148",
-    "title": "The sauce that fixes almost anything",
-    "creator": "FiveIngredients",
-    "caption": "Sauce first, questions later",
-    "tags": [
-      "food",
-      "foodie",
-      "streetfood",
-      "cooking",
-      "homecooking"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_117",
-    "title": "Manga vs anime: what got cut and why",
-    "creator": "ShonenDaily",
-    "caption": "This arc lives in my head rent-free 🎌",
-    "tags": [
-      "shonen",
-      "otaku",
-      "anime",
-      "animation",
-      "manga",
-      "opening"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
-    "id": "reel_032",
-    "title": "How CR7 stayed elite past 35",
-    "creator": "SiuMoments",
-    "caption": "Still the most complete striker we've seen",
-    "tags": [
-      "portugal",
-      "alnassr",
-      "ronaldo"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
-    "id": "reel_114",
-    "title": "The legendary arc that redefined the series",
-    "creator": "OpeningsArchive",
-    "caption": "This arc lives in my head rent-free 🎌",
-    "tags": [
-      "animation",
-      "opening",
-      "shonen",
-      "manga"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
-    "id": "reel_190",
-    "title": "Shelter dog to certified good boy: full glow-up",
-    "creator": "GoldenDaily",
-    "caption": "Golden retriever tax has been paid",
-    "tags": [
-      "rescue",
-      "adoptdontshop",
-      "doglife",
-      "dogs"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_030",
-    "title": "Why Messi never needed pace",
-    "creator": "BarcaLegends",
-    "caption": "The GOAT debate ends here",
-    "tags": [
-      "barcelona",
-      "messi",
-      "football",
-      "worldcup",
-      "goat",
-      "argentina"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_043",
-    "title": "Ronaldo's header technique breakdown",
-    "creator": "SiuMoments",
-    "caption": "This is what 20 years at the top looks like",
-    "tags": [
-      "football",
-      "alnassr",
-      "cr7",
-      "ronaldo",
-      "portugal",
-      "siu"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
-    "id": "reel_026",
-    "title": "Messi's brutal dribble vs three defenders",
-    "creator": "GOATarchive",
-    "caption": "Small guy, biggest impact on the game",
-    "tags": [
-      "goat",
-      "barcelona",
-      "argentina",
-      "messi",
-      "worldcup"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_020",
-    "title": "Messi's brutal dribble vs three defenders",
-    "creator": "GOATarchive",
-    "caption": "There will never be another one 🐐",
-    "tags": [
-      "goat",
-      "football",
-      "argentina",
-      "messi"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_038",
-    "title": "Ronaldo's brutal bicycle kick from every angle",
-    "creator": "JuveLegacy",
-    "caption": "The work ethic nobody talks enough about",
-    "tags": [
-      "alnassr",
-      "portugal",
-      "siu"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
-    "id": "reel_141",
-    "title": "This format never misses",
-    "creator": "CaptionThis",
-    "caption": "Sending this to the group chat immediately",
-    "tags": [
-      "memes",
-      "humor",
-      "comedy",
-      "relatable",
-      "trending",
-      "funny"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_118",
-    "title": "The unbelievable arc that redefined the series",
-    "creator": "ShonenDaily",
-    "caption": "The animation budget for this scene was worth it",
-    "tags": [
-      "otaku",
-      "anime",
-      "shonen",
-      "manga",
-      "opening"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
-    "id": "reel_096",
-    "title": "Why cosine similarity beats Euclidean distance here",
-    "creator": "PromptLab",
+    "id": "reel_101",
+    "title": "Unbelievable how recommendation engines actually work",
+    "creator": "TransformerTalks",
     "caption": "The vector space is where the magic happens 🤖",
     "tags": [
+      "ai",
+      "machinelearning",
+      "recommendersystems",
       "embeddings",
-      "deeplearning",
-      "ai"
+      "nlp"
     ],
     "category": "AI",
     "thumbnail_emoji": "🤖",
     "thumbnail_color": "#7c3aed"
   },
   {
-    "id": "reel_075",
+    "id": "reel_050",
+    "title": "Underrated the tango move that takes years to learn",
+    "creator": "AlbicelesteTV",
+    "caption": "Culture, food, and football - the trifecta",
+    "tags": [
+      "albiceleste",
+      "argentina",
+      "worldcup",
+      "tango",
+      "buenosaires"
+    ],
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
+  },
+  {
+    "id": "reel_097",
+    "title": "The underrated gap between demo and production ML",
+    "creator": "EmbeddingSpace",
+    "caption": "Cosine similarity in one sentence: direction, not distance",
+    "tags": [
+      "machinelearning",
+      "recommendersystems",
+      "deeplearning",
+      "ai",
+      "nlp"
+    ],
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_072",
     "title": "Recovery routine of a iconic lifter",
     "creator": "LiftLab",
     "caption": "Form check before you add more plates",
@@ -1486,224 +159,29 @@
     "thumbnail_color": "#f97316"
   },
   {
-    "id": "reel_200",
-    "title": "Cat vs cucumber, the sequel nobody asked for",
-    "creator": "CatCafeDaily",
-    "caption": "That chair has been hers since day one",
+    "id": "reel_177",
+    "title": "Iconic what your 20s net worth should roughly look like",
+    "creator": "BudgetByNumbers",
+    "caption": "Numbers don't lie, plans do",
     "tags": [
-      "cats",
-      "catmom",
-      "funnycats"
-    ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
-  },
-  {
-    "id": "reel_121",
-    "title": "Street food tour: the clean stop was the best",
-    "creator": "SlowTravelLog",
-    "caption": "Get lost on purpose sometimes ✈️",
-    "tags": [
-      "wanderlust",
-      "explore",
-      "adventure"
-    ],
-    "category": "Travel",
-    "thumbnail_emoji": "✈️",
-    "thumbnail_color": "#0ea5e9"
-  },
-  {
-    "id": "reel_003",
-    "title": "Nutmeg compilation that will make you cry",
-    "creator": "MatchdayClips",
-    "caption": "Football is a religion and this clip is proof ⚽",
-    "tags": [
-      "tactics",
-      "matchday",
-      "soccer",
-      "football",
-      "goals",
-      "skills"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_146",
-    "title": "One-pan meal, minimal cleanup",
-    "creator": "FiveIngredients",
-    "caption": "Cooking should be this simple 🍜",
-    "tags": [
-      "homecooking",
-      "foodie",
-      "streetfood",
-      "cooking",
-      "food"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_154",
-    "title": "The sauce that fixes almost anything",
-    "creator": "FiveIngredients",
-    "caption": "One pan, zero regrets",
-    "tags": [
-      "cooking",
-      "homecooking",
-      "recipe",
-      "foodie",
-      "streetfood",
-      "food"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_029",
-    "title": "Why Messi never needed pace",
-    "creator": "GOATarchive",
-    "caption": "There will never be another one 🐐",
-    "tags": [
-      "messi",
-      "worldcup",
-      "goat",
-      "argentina",
-      "barcelona"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_128",
-    "title": "Packing light for a month abroad",
-    "creator": "OffThePathTV",
-    "caption": "Get lost on purpose sometimes ✈️",
-    "tags": [
-      "explore",
-      "adventure",
-      "wanderlust",
-      "citylife",
-      "backpacking",
-      "travel"
-    ],
-    "category": "Travel",
-    "thumbnail_emoji": "✈️",
-    "thumbnail_color": "#0ea5e9"
-  },
-  {
-    "id": "reel_006",
-    "title": "Derby day chaos: full recap",
-    "creator": "TouchlineTalk",
-    "caption": "Studied this move for a week, still can't do it",
-    "tags": [
-      "soccer",
-      "tactics",
-      "football",
-      "skills",
-      "goals"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_132",
-    "title": "POV: it's quiet and Monday at the same time",
-    "creator": "OfficeMemesDaily",
-    "caption": "Sending this to the group chat immediately",
-    "tags": [
-      "funny",
-      "humor",
-      "trending",
-      "memes",
-      "relatable",
-      "comedy"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_109",
-    "title": "Why this villain's arc is the best written",
-    "creator": "ShonenDaily",
-    "caption": "Still not over this ending",
-    "tags": [
-      "manga",
-      "animation",
-      "anime",
-      "shonen",
-      "otaku"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
-    "id": "reel_176",
-    "title": "Emergency fund math, simplified",
-    "creator": "CashflowClips",
-    "caption": "Boring investing is still the best investing",
-    "tags": [
-      "compoundinterest",
-      "finance",
       "investing",
-      "personalfinance",
-      "moneytips",
-      "budgeting"
+      "finance",
+      "compoundinterest",
+      "personalfinance"
     ],
     "category": "Finance",
     "thumbnail_emoji": "💰",
     "thumbnail_color": "#059669"
   },
   {
-    "id": "reel_027",
-    "title": "Leo's 2022 highlight reel",
-    "creator": "InterMiamiCF",
-    "caption": "Studying Messi's footwork frame by frame",
-    "tags": [
-      "messi",
-      "football",
-      "goat"
-    ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
-  },
-  {
-    "id": "reel_041",
-    "title": "The gym routine behind the longevity",
-    "creator": "JuveLegacy",
-    "caption": "Still the most complete striker we've seen",
-    "tags": [
-      "alnassr",
-      "cr7",
-      "football",
-      "portugal",
-      "ronaldo",
-      "siu"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
     "id": "reel_108",
-    "title": "Why this villain's arc is the best written",
-    "creator": "SakuraFrames",
-    "caption": "That OST hits different at 2am",
+    "title": "Insane the soundtrack cue that hits every time",
+    "creator": "ArcReview",
+    "caption": "Still not over this ending",
     "tags": [
-      "animation",
       "manga",
+      "animation",
       "opening",
-      "shonen",
-      "otaku",
       "anime"
     ],
     "category": "Anime",
@@ -1711,84 +189,23 @@
     "thumbnail_color": "#ec4899"
   },
   {
-    "id": "reel_185",
-    "title": "The zoomies compilation you needed today",
-    "creator": "ParkDayLog",
-    "caption": "From shelter to spoiled in record time",
+    "id": "reel_198",
+    "title": "Insane rescue cat's first week, day by day",
+    "creator": "LapCatClips",
+    "caption": "One week in and already the boss",
     "tags": [
-      "rescue",
-      "goodboy",
-      "doglife",
-      "adoptdontshop",
-      "dogs",
-      "puppy"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_061",
-    "title": "Portugal's 2024 squad depth, ranked",
-    "creator": "PortugalFC",
-    "caption": "This pastry ends every argument",
-    "tags": [
-      "portugal",
-      "porto",
-      "lisbon"
-    ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
-  },
-  {
-    "id": "reel_093",
-    "title": "Why this one-liner replaced 40 lines",
-    "creator": "ShipItDaily",
-    "caption": "Small refactor, huge performance win",
-    "tags": [
-      "devlife",
-      "coding",
-      "cleancode",
-      "programming"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_103",
-    "title": "Why cosine similarity beats Euclidean distance here",
-    "creator": "EmbeddingSpace",
-    "caption": "Online learning means the model never stops listening",
-    "tags": [
-      "machinelearning",
-      "nlp",
-      "embeddings",
-      "ai",
-      "recommendersystems"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_196",
-    "title": "Cat vs cucumber, the sequel nobody asked for",
-    "creator": "MidnightZoomies",
-    "caption": "She owns the apartment, I just pay rent 🐱",
-    "tags": [
-      "catlife",
       "kitten",
-      "catsofinstagram"
+      "catsofinstagram",
+      "catlife",
+      "cats"
     ],
     "category": "Cats",
     "thumbnail_emoji": "🐱",
     "thumbnail_color": "#7c2d12"
   },
   {
-    "id": "reel_126",
-    "title": "Why slow travel changed how I see places",
+    "id": "reel_123",
+    "title": "Clean why slow travel changed how I see places",
     "creator": "BackpackDiaries",
     "caption": "Get lost on purpose sometimes ✈️",
     "tags": [
@@ -1803,470 +220,23 @@
     "thumbnail_color": "#0ea5e9"
   },
   {
-    "id": "reel_064",
-    "title": "Fado music and why it hits so hard",
-    "creator": "PortoDaily",
-    "caption": "A pequena grande nação 🇵🇹",
+    "id": "reel_192",
+    "title": "Cat's legendary reaction to the new couch",
+    "creator": "CatCafeDaily",
+    "caption": "This stare could end wars",
     "tags": [
-      "lisbon",
-      "porto",
-      "culture",
-      "algarve",
-      "portugal"
+      "cats",
+      "funnycats",
+      "catlife",
+      "catsofinstagram"
     ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
   },
   {
-    "id": "reel_113",
-    "title": "Manga vs anime: what got cut and why",
-    "creator": "ShonenDaily",
-    "caption": "Still not over this ending",
-    "tags": [
-      "otaku",
-      "anime",
-      "manga",
-      "shonen",
-      "animation"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
-    "id": "reel_159",
-    "title": "The director's commentary detail nobody catches",
-    "creator": "DirectorsCutTV",
-    "caption": "Forty takes for twelve seconds of footage",
-    "tags": [
-      "movies",
-      "screenplay",
-      "film"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_047",
-    "title": "The tango move that takes years to learn",
-    "creator": "PampaClips",
-    "caption": "Mate at dawn, football at dusk",
-    "tags": [
-      "albiceleste",
-      "southamerica",
-      "worldcup"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_034",
-    "title": "Ronaldo's legendary bicycle kick from every angle",
-    "creator": "SiuMoments",
-    "caption": "Still the most complete striker we've seen",
-    "tags": [
-      "cr7",
-      "ronaldo",
-      "football",
-      "siu",
-      "alnassr"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
-    "id": "reel_040",
-    "title": "Ronaldo's header technique breakdown",
-    "creator": "ManUtdVault",
-    "caption": "This is what 20 years at the top looks like",
-    "tags": [
-      "football",
-      "siu",
-      "ronaldo",
-      "cr7",
-      "portugal"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
-    "id": "reel_046",
-    "title": "The tango move that takes years to learn",
-    "creator": "MateAndFutbol",
-    "caption": "Culture, food, and football - the trifecta",
-    "tags": [
-      "buenosaires",
-      "tango",
-      "argentina",
-      "southamerica"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_084",
-    "title": "Why this one-liner replaced 40 lines",
-    "creator": "TerminalTales",
-    "caption": "Recursion finally clicked after this analogy",
-    "tags": [
-      "devlife",
-      "programming",
-      "debugging",
-      "coding",
-      "softwareengineering",
-      "cleancode"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_149",
-    "title": "Meal prep for people who hate meal prep",
-    "creator": "FiveIngredients",
-    "caption": "Cooking should be this simple 🍜",
-    "tags": [
-      "recipe",
-      "foodie",
-      "homecooking",
-      "food",
-      "cooking"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_060",
-    "title": "The Algarve coastline drone tour",
-    "creator": "LisbonLive",
-    "caption": "Fado gives me chills every time",
-    "tags": [
-      "portugal",
-      "lisbon",
-      "algarve",
-      "travel"
-    ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
-  },
-  {
-    "id": "reel_163",
-    "title": "The ending that recontextualizes everything",
-    "creator": "CutRoomFloor",
-    "caption": "Rewatched just for this one editing choice",
-    "tags": [
-      "cinema",
-      "filmmaking",
-      "movies",
-      "directorscut",
-      "screenplay",
-      "film"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_073",
-    "title": "Push day, explained in 40 seconds",
-    "creator": "IronDaily",
-    "caption": "Six months of showing up, this is the result",
-    "tags": [
-      "discipline",
-      "lifting",
-      "gains",
-      "fitness",
-      "workout",
-      "gym"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_083",
-    "title": "Why this one-liner replaced 40 lines",
-    "creator": "ShipItDaily",
-    "caption": "Shipped it, broke it, fixed it, learned it",
-    "tags": [
-      "debugging",
-      "softwareengineering",
-      "programming",
-      "cleancode",
-      "coding",
-      "devlife"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_173",
-    "title": "Debt payoff strategy compared: avalanche vs snowball",
-    "creator": "CompoundDaily",
-    "caption": "The rule that finally made budgeting stick",
-    "tags": [
-      "personalfinance",
-      "finance",
-      "budgeting",
-      "compoundinterest",
-      "investing"
-    ],
-    "category": "Finance",
-    "thumbnail_emoji": "💰",
-    "thumbnail_color": "#059669"
-  },
-  {
-    "id": "reel_102",
-    "title": "Online learning vs batch training, compared",
-    "creator": "TransformerTalks",
-    "caption": "This diagram made embeddings finally click",
-    "tags": [
-      "ai",
-      "deeplearning",
-      "machinelearning",
-      "embeddings"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_158",
-    "title": "The iconic scene that took 40 takes",
-    "creator": "DirectorsCutTV",
-    "caption": "Practical effects still hit different",
-    "tags": [
-      "screenplay",
-      "movies",
-      "film",
-      "filmmaking",
-      "directorscut",
-      "cinema"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_160",
-    "title": "Editing choice that changes the whole meaning",
-    "creator": "ScoreTalk",
-    "caption": "Forty takes for twelve seconds of footage",
-    "tags": [
-      "movies",
-      "cinema",
-      "film",
-      "screenplay",
-      "filmmaking"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_142",
-    "title": "Text posts turned into a sketch",
-    "creator": "MondayMoodTV",
-    "caption": "I did not write this but I felt it 🤣",
-    "tags": [
-      "funny",
-      "trending",
-      "comedy",
-      "memes",
-      "relatable"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_031",
-    "title": "Ronaldo's insane bicycle kick from every angle",
-    "creator": "SiuMoments",
-    "caption": "The work ethic nobody talks enough about",
-    "tags": [
-      "siu",
-      "football",
-      "ronaldo",
-      "alnassr",
-      "portugal",
-      "cr7"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
-    "id": "reel_145",
-    "title": "The quiet 15-minute dinner that never fails",
-    "creator": "SlowSimmer",
-    "caption": "This stall changed my entire palate",
-    "tags": [
-      "streetfood",
-      "cooking",
-      "homecooking",
-      "food",
-      "foodie",
-      "recipe"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_055",
-    "title": "The tango move that takes years to learn",
-    "creator": "PampaClips",
-    "caption": "Mate at dawn, football at dusk",
-    "tags": [
-      "tango",
-      "albiceleste",
-      "argentina",
-      "buenosaires",
-      "southamerica",
-      "worldcup"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_004",
-    "title": "Last-minute winner from 40 yards out",
-    "creator": "FullTimeFC",
-    "caption": "The beautiful game, one touch at a time",
-    "tags": [
-      "football",
-      "goals",
-      "matchday",
-      "soccer",
-      "skills"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_078",
-    "title": "Recovery routine of a clean lifter",
-    "creator": "FormCheckTV",
-    "caption": "Form check before you add more plates",
-    "tags": [
-      "workout",
-      "gains",
-      "discipline",
-      "gym",
-      "lifting"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_086",
-    "title": "Debugging live: production incident recap",
-    "creator": "CleanCodeClub",
-    "caption": "Shipped it, broke it, fixed it, learned it",
-    "tags": [
-      "softwareengineering",
-      "debugging",
-      "coding",
-      "devlife",
-      "cleancode",
-      "programming"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_054",
-    "title": "How mate became a national ritual",
-    "creator": "BuenosAiresDaily",
-    "caption": "Culture, food, and football - the trifecta",
-    "tags": [
-      "southamerica",
-      "buenosaires",
-      "worldcup",
-      "argentina",
-      "tango",
-      "albiceleste"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_123",
-    "title": "Why slow travel changed how I see places",
-    "creator": "WanderClips",
-    "caption": "This town isn't in any guidebook, and that's the point",
-    "tags": [
-      "backpacking",
-      "wanderlust",
-      "adventure",
-      "citylife"
-    ],
-    "category": "Travel",
-    "thumbnail_emoji": "✈️",
-    "thumbnail_color": "#0ea5e9"
-  },
-  {
-    "id": "reel_056",
-    "title": "Qatar 2024: the celebration that never ended",
-    "creator": "AlbicelesteTV",
-    "caption": "Culture, food, and football - the trifecta",
-    "tags": [
-      "worldcup",
-      "tango",
-      "buenosaires",
-      "argentina",
-      "albiceleste"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_167",
-    "title": "Debt payoff strategy compared: avalanche vs snowball",
-    "creator": "CompoundDaily",
-    "caption": "The rule that finally made budgeting stick",
-    "tags": [
-      "budgeting",
-      "moneytips",
-      "compoundinterest"
-    ],
-    "category": "Finance",
-    "thumbnail_emoji": "💰",
-    "thumbnail_color": "#059669"
-  },
-  {
-    "id": "reel_151",
-    "title": "One-pan meal, minimal cleanup",
-    "creator": "SlowSimmer",
-    "caption": "Finally got the recipe in writing before it was lost",
-    "tags": [
-      "cooking",
-      "food",
-      "streetfood"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_019",
-    "title": "Messi's quietest, deadliest skill",
+    "id": "reel_017",
+    "title": "Clean messi's quietest, deadliest skill",
     "creator": "LeoClips10",
     "caption": "There will never be another one 🐐",
     "tags": [
@@ -2282,11 +252,157 @@
     "thumbnail_color": "#38bdf8"
   },
   {
-    "id": "reel_011",
-    "title": "Last-minute winner from the halfway line out",
-    "creator": "TouchlineTalk",
-    "caption": "Matchday energy hits different",
+    "id": "reel_184",
+    "title": "Quiet shelter dog to certified good boy: full glow-up",
+    "creator": "ShelterStories",
+    "caption": "Golden retriever tax has been paid",
     "tags": [
+      "doglife",
+      "puppy",
+      "goodboy",
+      "rescue"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_079",
+    "title": "Legendary push day, explained in 40 seconds",
+    "creator": "GymRatDiaries",
+    "caption": "Six months of showing up, this is the result",
+    "tags": [
+      "gym",
+      "lifting",
+      "workout",
+      "gains",
+      "fitness"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_077",
+    "title": "Recovery routine of a legendary lifter",
+    "creator": "LiftLab",
+    "caption": "The unsexy basics still win",
+    "tags": [
+      "fitness",
+      "gym",
+      "gains"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_193",
+    "title": "Brutal cat vs cucumber, the sequel nobody asked for",
+    "creator": "CatCafeDaily",
+    "caption": "That chair has been hers since day one",
+    "tags": [
+      "catlife",
+      "catsofinstagram",
+      "funnycats",
+      "cats",
+      "kitten",
+      "catmom"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
+  },
+  {
+    "id": "reel_172",
+    "title": "Brutal emergency fund math, simplified",
+    "creator": "CashflowClips",
+    "caption": "Boring investing is still the best investing",
+    "tags": [
+      "compoundinterest",
+      "finance",
+      "investing",
+      "personalfinance",
+      "moneytips",
+      "budgeting"
+    ],
+    "category": "Finance",
+    "thumbnail_emoji": "💰",
+    "thumbnail_color": "#059669"
+  },
+  {
+    "id": "reel_024",
+    "title": "Unbelievable the pass only Messi sees",
+    "creator": "BarcaLegends",
+    "caption": "The GOAT debate ends here",
+    "tags": [
+      "goat",
+      "barcelona",
+      "argentina",
+      "worldcup",
+      "messi",
+      "football"
+    ],
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
+  },
+  {
+    "id": "reel_065",
+    "title": "Unbelievable lisbon's hidden viewpoints you're missing",
+    "creator": "AzulejosTV",
+    "caption": "Fado gives me chills every time",
+    "tags": [
+      "travel",
+      "algarve",
+      "culture",
+      "lisbon"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_194",
+    "title": "Unbelievable why she only sits on this one chair",
+    "creator": "WhiskerLog",
+    "caption": "This stare could end wars",
+    "tags": [
+      "catmom",
+      "cats",
+      "catsofinstagram",
+      "catlife",
+      "funnycats",
+      "kitten"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
+  },
+  {
+    "id": "reel_202",
+    "title": "Clean rescue cat's first week, day by day",
+    "creator": "PurrCastTV",
+    "caption": "3am is prime zoomies hour, apparently",
+    "tags": [
+      "catmom",
+      "kitten",
+      "funnycats",
+      "cats",
+      "catsofinstagram"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
+  },
+  {
+    "id": "reel_014",
+    "title": "Unbelievable derby day chaos: full recap",
+    "creator": "TikiTakaDaily",
+    "caption": "The beautiful game, one touch at a time",
+    "tags": [
+      "goals",
+      "skills",
       "matchday",
       "football",
       "tactics"
@@ -2296,8 +412,169 @@
     "thumbnail_color": "#16a34a"
   },
   {
-    "id": "reel_177",
-    "title": "What your 20s net worth should roughly look like",
+    "id": "reel_166",
+    "title": "Unbelievable practical effects vs CGI: this scene proves a point",
+    "creator": "DirectorsCutTV",
+    "caption": "Cinema as an art form, not just entertainment 🎬",
+    "tags": [
+      "screenplay",
+      "cinema",
+      "movies",
+      "filmmaking",
+      "directorscut",
+      "film"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_200",
+    "title": "Insane the stare that means 'feed me now'",
+    "creator": "LapCatClips",
+    "caption": "This stare could end wars",
+    "tags": [
+      "kitten",
+      "catsofinstagram",
+      "catlife",
+      "catmom"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
+  },
+  {
+    "id": "reel_100",
+    "title": "Unbelievable why cosine similarity beats Euclidean distance here",
+    "creator": "EmbeddingSpace",
+    "caption": "Online learning means the model never stops listening",
+    "tags": [
+      "machinelearning",
+      "nlp",
+      "embeddings",
+      "ai",
+      "recommendersystems"
+    ],
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_092",
+    "title": "Quiet debugging live: production incident recap",
+    "creator": "ShipItDaily",
+    "caption": "Readable code is a gift to future you",
+    "tags": [
+      "softwareengineering",
+      "devlife",
+      "coding",
+      "programming",
+      "debugging",
+      "cleancode"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_058",
+    "title": "Portugal's 2022 squad depth, ranked",
+    "creator": "PortugalFC",
+    "caption": "This pastry ends every argument",
+    "tags": [
+      "culture",
+      "algarve",
+      "travel",
+      "lisbon"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_138",
+    "title": "Brutal this format never misses",
+    "creator": "DailyDump",
+    "caption": "I did not write this but I felt it 🤣",
+    "tags": [
+      "trending",
+      "humor",
+      "memes",
+      "relatable",
+      "comedy",
+      "funny"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_188",
+    "title": "Quiet training trick that finally stopped the pulling",
+    "creator": "RescueTailsTV",
+    "caption": "Adopt, don't shop 🐶",
+    "tags": [
+      "dogs",
+      "goodboy",
+      "doglife",
+      "adoptdontshop",
+      "rescue",
+      "puppy"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_186",
+    "title": "Rescue pup's iconic first day home",
+    "creator": "RescueTailsTV",
+    "caption": "This trick took three weeks, worth every minute",
+    "tags": [
+      "rescue",
+      "doglife",
+      "puppy",
+      "adoptdontshop",
+      "goodboy",
+      "dogs"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_021",
+    "title": "Brutal the pass only Messi sees",
+    "creator": "GOATarchive",
+    "caption": "The GOAT debate ends here",
+    "tags": [
+      "goat",
+      "messi",
+      "football",
+      "barcelona",
+      "worldcup"
+    ],
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
+  },
+  {
+    "id": "reel_026",
+    "title": "Legendary the pass only Messi sees",
+    "creator": "InterMiamiCF",
+    "caption": "This is why grown men cried in Qatar",
+    "tags": [
+      "worldcup",
+      "football",
+      "barcelona"
+    ],
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
+  },
+  {
+    "id": "reel_173",
+    "title": "Clean what your 20s net worth should roughly look like",
     "creator": "LedgerLogic",
     "caption": "Emergency funds aren't exciting, they're essential",
     "tags": [
@@ -2313,14 +590,92 @@
     "thumbnail_color": "#059669"
   },
   {
-    "id": "reel_069",
-    "title": "Why progressive overload is non-negotiable",
-    "creator": "IronDaily",
+    "id": "reel_062",
+    "title": "Iconic porto's tile art explained in 30 seconds",
+    "creator": "LisbonLive",
+    "caption": "Coastal towns nobody talks about enough",
+    "tags": [
+      "travel",
+      "porto",
+      "lisbon"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_015",
+    "title": "Unbelievable nutmeg compilation that will make you cry",
+    "creator": "MatchdayClips",
+    "caption": "Football is a religion and this clip is proof ⚽",
+    "tags": [
+      "football",
+      "tactics",
+      "matchday"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_078",
+    "title": "The legendary form fix that saved my shoulders",
+    "creator": "GymRatDiaries",
     "caption": "The unsexy basics still win",
     "tags": [
+      "gains",
       "discipline",
       "fitness",
+      "workout",
+      "gym",
+      "lifting"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_007",
+    "title": "How top clubs are pressing in 2023",
+    "creator": "MatchdayClips",
+    "caption": "Matchday energy hits different",
+    "tags": [
+      "football",
+      "soccer",
+      "matchday",
+      "skills",
+      "tactics"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_136",
+    "title": "Quiet text posts turned into a sketch",
+    "creator": "OfficeMemesDaily",
+    "caption": "I did not write this but I felt it 🤣",
+    "tags": [
+      "humor",
+      "funny",
+      "comedy",
+      "trending",
+      "memes",
+      "relatable"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_069",
+    "title": "Unbelievable why progressive overload is non-negotiable",
+    "creator": "ProgressiveOverload",
+    "caption": "The unsexy basics still win",
+    "tags": [
       "lifting",
+      "fitness",
+      "gym",
       "gains"
     ],
     "category": "Gym",
@@ -2328,77 +683,295 @@
     "thumbnail_color": "#f97316"
   },
   {
-    "id": "reel_014",
-    "title": "clean free-kick technique tutorial",
-    "creator": "TouchlineTalk",
-    "caption": "The beautiful game, one touch at a time",
+    "id": "reel_119",
+    "title": "Street food tour: the underrated stop was the best",
+    "creator": "OffThePathTV",
+    "caption": "Budget travel doesn't mean a worse trip",
     "tags": [
-      "football",
-      "soccer",
-      "matchday",
-      "goals"
+      "wanderlust",
+      "travel",
+      "adventure",
+      "backpacking",
+      "explore"
     ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
+    "category": "Travel",
+    "thumbnail_emoji": "✈️",
+    "thumbnail_color": "#0ea5e9"
   },
   {
-    "id": "reel_049",
-    "title": "Patagonia's most underrated hiking trail",
-    "creator": "MateAndFutbol",
-    "caption": "Culture, food, and football - the trifecta",
+    "id": "reel_133",
+    "title": "Insane rating relatable moments out of 10",
+    "creator": "MondayMoodTV",
+    "caption": "Too real, honestly",
     "tags": [
-      "argentina",
-      "buenosaires",
-      "worldcup",
-      "albiceleste",
+      "humor",
+      "trending",
+      "memes"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_045",
+    "title": "Quiet the tango move that takes years to learn",
+    "creator": "BuenosAiresDaily",
+    "caption": "This country doesn't do quiet celebrations",
+    "tags": [
       "tango",
-      "southamerica"
+      "albiceleste",
+      "worldcup",
+      "argentina"
     ],
     "category": "Argentina",
     "thumbnail_emoji": "🇦🇷",
     "thumbnail_color": "#75aadb"
   },
   {
-    "id": "reel_175",
-    "title": "Debt payoff strategy compared: avalanche vs snowball",
-    "creator": "BudgetByNumbers",
-    "caption": "Compound interest is the closest thing to magic 💰",
+    "id": "reel_157",
+    "title": "Legendary editing choice that changes the whole meaning",
+    "creator": "ScoreTalk",
+    "caption": "Forty takes for twelve seconds of footage",
     "tags": [
-      "investing",
+      "movies",
+      "cinema",
+      "film",
+      "screenplay",
+      "filmmaking"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_112",
+    "title": "Quiet animation breakdown: this fight scene, frame by frame",
+    "creator": "OpeningsArchive",
+    "caption": "That OST hits different at 2am",
+    "tags": [
+      "anime",
+      "manga",
+      "shonen"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_199",
+    "title": "Underrated 3am zoomies, explained by an expert (the cat)",
+    "creator": "LapCatClips",
+    "caption": "She owns the apartment, I just pay rent 🐱",
+    "tags": [
+      "cats",
+      "catlife",
+      "kitten",
+      "catmom"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
+  },
+  {
+    "id": "reel_086",
+    "title": "Legendary debugging live: production incident recap",
+    "creator": "CleanCodeClub",
+    "caption": "It was a missing semicolon. It's always a missing semicolon.",
+    "tags": [
+      "cleancode",
+      "programming",
+      "debugging",
+      "softwareengineering",
+      "coding",
+      "devlife"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_089",
+    "title": "Quiet clean code principle you're probably ignoring",
+    "creator": "DevByDay",
+    "caption": "Shipped it, broke it, fixed it, learned it",
+    "tags": [
+      "softwareengineering",
+      "coding",
+      "cleancode",
+      "devlife",
+      "programming",
+      "debugging"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_075",
+    "title": "Recovery routine of a clean lifter",
+    "creator": "FormCheckTV",
+    "caption": "Form check before you add more plates",
+    "tags": [
+      "workout",
+      "gains",
+      "discipline",
+      "gym",
+      "lifting"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_170",
+    "title": "Insane what your 20s net worth should roughly look like",
+    "creator": "BudgetByNumbers",
+    "caption": "Emergency funds aren't exciting, they're essential",
+    "tags": [
+      "compoundinterest",
       "finance",
-      "budgeting"
+      "budgeting",
+      "moneytips"
     ],
     "category": "Finance",
     "thumbnail_emoji": "💰",
     "thumbnail_color": "#059669"
   },
   {
-    "id": "reel_024",
-    "title": "Rewatching the World Cup final assist",
-    "creator": "MessiMoments",
-    "caption": "This is why grown men cried in Qatar",
+    "id": "reel_122",
+    "title": "Underrated the overnight train route worth the discomfort",
+    "creator": "BackpackDiaries",
+    "caption": "Budget travel doesn't mean a worse trip",
     "tags": [
-      "messi",
-      "football",
-      "worldcup",
-      "argentina"
+      "backpacking",
+      "adventure",
+      "travel"
     ],
-    "category": "Messi",
-    "thumbnail_emoji": "🐐",
-    "thumbnail_color": "#38bdf8"
+    "category": "Travel",
+    "thumbnail_emoji": "✈️",
+    "thumbnail_color": "#0ea5e9"
   },
   {
-    "id": "reel_095",
-    "title": "Attention mechanism, explained visually",
-    "creator": "GradientDescentTV",
-    "caption": "This diagram made embeddings finally click",
+    "id": "reel_055",
+    "title": "Clean the tango move that takes years to learn",
+    "creator": "BuenosAiresDaily",
+    "caption": "Buenos Aires never sleeps during a final",
     "tags": [
-      "embeddings",
+      "worldcup",
+      "southamerica",
+      "tango",
+      "albiceleste",
+      "buenosaires"
+    ],
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
+  },
+  {
+    "id": "reel_054",
+    "title": "Brutal why Argentine steak is cooked this way",
+    "creator": "PampaClips",
+    "caption": "Vamos Argentina 🇦🇷",
+    "tags": [
+      "argentina",
+      "tango",
+      "worldcup",
+      "southamerica",
+      "albiceleste"
+    ],
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
+  },
+  {
+    "id": "reel_110",
+    "title": "Iconic animation breakdown: this fight scene, frame by frame",
+    "creator": "ShonenDaily",
+    "caption": "Still not over this ending",
+    "tags": [
+      "manga",
+      "opening",
+      "animation"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_143",
+    "title": "Iconic one-pan meal, minimal cleanup",
+    "creator": "SlowSimmer",
+    "caption": "Finally got the recipe in writing before it was lost",
+    "tags": [
+      "food",
+      "cooking",
+      "recipe",
+      "homecooking",
+      "streetfood"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_037",
+    "title": "Underrated the free-kick knuckleball, explained",
+    "creator": "AlNassrClips",
+    "caption": "This is what 20 years at the top looks like",
+    "tags": [
+      "portugal",
+      "football",
+      "alnassr",
+      "siu",
+      "ronaldo",
+      "cr7"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_104",
+    "title": "Legendary embeddings explained with one diagram",
+    "creator": "NeuralNotes",
+    "caption": "Production ML is 80% data plumbing, and that's fine",
+    "tags": [
+      "recommendersystems",
+      "deeplearning",
       "nlp",
+      "ai",
+      "embeddings"
+    ],
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_189",
+    "title": "Brutal the zoomies compilation you needed today",
+    "creator": "ShelterStories",
+    "caption": "Zoomies are a personality trait at this point",
+    "tags": [
+      "adoptdontshop",
+      "dogs",
+      "doglife",
+      "rescue",
+      "goodboy"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_094",
+    "title": "The quiet gap between demo and production ML",
+    "creator": "PromptLab",
+    "caption": "Online learning means the model never stops listening",
+    "tags": [
       "ai",
       "machinelearning",
       "recommendersystems",
+      "nlp",
       "deeplearning"
     ],
     "category": "AI",
@@ -2406,24 +979,41 @@
     "thumbnail_color": "#7c3aed"
   },
   {
-    "id": "reel_116",
-    "title": "Manga vs anime: what got cut and why",
-    "creator": "MangaPanels",
-    "caption": "Still not over this ending",
+    "id": "reel_151",
+    "title": "Brutal meal prep for people who hate meal prep",
+    "creator": "FiveIngredients",
+    "caption": "One pan, zero regrets",
     "tags": [
-      "animation",
+      "cooking",
+      "homecooking",
+      "recipe",
+      "foodie",
+      "streetfood",
+      "food"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_114",
+    "title": "Underrated manga vs anime: what got cut and why",
+    "creator": "ShonenDaily",
+    "caption": "This arc lives in my head rent-free 🎌",
+    "tags": [
       "shonen",
-      "opening",
-      "manga",
       "otaku",
-      "anime"
+      "anime",
+      "animation",
+      "manga",
+      "opening"
     ],
     "category": "Anime",
     "thumbnail_emoji": "🎌",
     "thumbnail_color": "#ec4899"
   },
   {
-    "id": "reel_021",
+    "id": "reel_019",
     "title": "Leo's 2023 highlight reel",
     "creator": "LeoClips10",
     "caption": "The GOAT debate ends here",
@@ -2440,93 +1030,45 @@
     "thumbnail_color": "#38bdf8"
   },
   {
-    "id": "reel_085",
-    "title": "The clean bug that took 6 hours to find",
-    "creator": "RefactorThis",
-    "caption": "It was a missing semicolon. It's always a missing semicolon.",
+    "id": "reel_027",
+    "title": "Underrated rewatching the World Cup final assist",
+    "creator": "LeoClips10",
+    "caption": "There will never be another one 🐐",
     "tags": [
-      "devlife",
-      "programming",
-      "coding",
-      "cleancode",
-      "softwareengineering",
-      "debugging"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_053",
-    "title": "How mate became a national ritual",
-    "creator": "BuenosAiresDaily",
-    "caption": "Vamos Argentina 🇦🇷",
-    "tags": [
-      "argentina",
+      "barcelona",
       "worldcup",
-      "albiceleste",
-      "southamerica"
+      "goat",
+      "football"
     ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
   },
   {
-    "id": "reel_066",
-    "title": "Portugal's 2023 squad depth, ranked",
-    "creator": "AlgarveClips",
-    "caption": "This pastry ends every argument",
+    "id": "reel_148",
+    "title": "Legendary one-pan meal, minimal cleanup",
+    "creator": "SlowSimmer",
+    "caption": "Finally got the recipe in writing before it was lost",
     "tags": [
-      "portugal",
-      "porto",
-      "algarve",
-      "culture"
+      "cooking",
+      "food",
+      "streetfood"
     ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
   },
   {
-    "id": "reel_063",
-    "title": "The Algarve coastline drone tour",
-    "creator": "PortoDaily",
-    "caption": "A pequena grande nação 🇵🇹",
-    "tags": [
-      "portugal",
-      "travel",
-      "lisbon",
-      "culture",
-      "porto"
-    ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
-  },
-  {
-    "id": "reel_100",
-    "title": "The underrated gap between demo and production ML",
-    "creator": "EmbeddingSpace",
-    "caption": "Cosine similarity in one sentence: direction, not distance",
-    "tags": [
-      "machinelearning",
-      "recommendersystems",
-      "deeplearning",
-      "ai",
-      "nlp"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_035",
-    "title": "The gym routine behind the longevity",
+    "id": "reel_041",
+    "title": "Underrated ronaldo's header technique breakdown",
     "creator": "SiuMoments",
-    "caption": "The work ethic nobody talks enough about",
+    "caption": "This is what 20 years at the top looks like",
     "tags": [
-      "ronaldo",
-      "cr7",
       "football",
+      "alnassr",
+      "cr7",
+      "ronaldo",
+      "portugal",
       "siu"
     ],
     "category": "Ronaldo",
@@ -2534,43 +1076,140 @@
     "thumbnail_color": "#dc2626"
   },
   {
-    "id": "reel_136",
-    "title": "Rating relatable moments out of 10",
-    "creator": "MondayMoodTV",
-    "caption": "Too real, honestly",
+    "id": "reel_023",
+    "title": "Messi's underrated dribble vs three defenders",
+    "creator": "LeoClips10",
+    "caption": "Studying Messi's footwork frame by frame",
     "tags": [
-      "humor",
-      "trending",
-      "memes"
+      "football",
+      "worldcup",
+      "messi",
+      "barcelona"
     ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
   },
   {
-    "id": "reel_191",
-    "title": "Rescue cat's first week, day by day",
-    "creator": "CatCafeDaily",
-    "caption": "This stare could end wars",
+    "id": "reel_099",
+    "title": "Insane online learning vs batch training, compared",
+    "creator": "TransformerTalks",
+    "caption": "This diagram made embeddings finally click",
     "tags": [
-      "funnycats",
-      "catmom",
-      "cats",
-      "catlife"
+      "ai",
+      "deeplearning",
+      "machinelearning",
+      "embeddings"
     ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_070",
+    "title": "Iconic push day, explained in 40 seconds",
+    "creator": "IronDaily",
+    "caption": "Six months of showing up, this is the result",
+    "tags": [
+      "discipline",
+      "lifting",
+      "gains",
+      "fitness",
+      "workout",
+      "gym"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_152",
+    "title": "The legendary 15-minute dinner that never fails",
+    "creator": "SlowSimmer",
+    "caption": "This stall changed my entire palate",
+    "tags": [
+      "streetfood",
+      "recipe",
+      "homecooking"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_010",
+    "title": "Underrated derby day chaos: full recap",
+    "creator": "TikiTakaDaily",
+    "caption": "Matchday energy hits different",
+    "tags": [
+      "skills",
+      "football",
+      "matchday",
+      "tactics",
+      "soccer"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_121",
+    "title": "Underrated 48 hours in a city on a tight budget",
+    "creator": "PassportStamps",
+    "caption": "Slow mornings, new cities, no itinerary",
+    "tags": [
+      "citylife",
+      "adventure",
+      "backpacking",
+      "explore",
+      "wanderlust",
+      "travel"
+    ],
+    "category": "Travel",
+    "thumbnail_emoji": "✈️",
+    "thumbnail_color": "#0ea5e9"
+  },
+  {
+    "id": "reel_116",
+    "title": "Legendary animation breakdown: this fight scene, frame by frame",
+    "creator": "OpeningsArchive",
+    "caption": "That OST hits different at 2am",
+    "tags": [
+      "anime",
+      "animation",
+      "opening",
+      "manga",
+      "shonen"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_093",
+    "title": "Brutal why this one-liner replaced 40 lines",
+    "creator": "TerminalTales",
+    "caption": "It was a missing semicolon. It's always a missing semicolon.",
+    "tags": [
+      "softwareengineering",
+      "cleancode",
+      "coding"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
   },
   {
     "id": "reel_181",
-    "title": "Senior dog's iconic reaction to the beach",
+    "title": "Underrated the zoomies compilation you needed today",
     "creator": "ParkDayLog",
-    "caption": "Zoomies are a personality trait at this point",
+    "caption": "From shelter to spoiled in record time",
     "tags": [
       "rescue",
-      "dogs",
+      "goodboy",
+      "doglife",
       "adoptdontshop",
+      "dogs",
       "puppy"
     ],
     "category": "Dogs",
@@ -2578,27 +1217,139 @@
     "thumbnail_color": "#b45309"
   },
   {
-    "id": "reel_202",
-    "title": "The stare that means 'feed me now'",
-    "creator": "LapCatClips",
-    "caption": "This stare could end wars",
+    "id": "reel_176",
+    "title": "Underrated what your 20s net worth should roughly look like",
+    "creator": "CashflowClips",
+    "caption": "Emergency funds aren't exciting, they're essential",
     "tags": [
-      "catsofinstagram",
-      "catlife",
-      "funnycats",
-      "catmom",
-      "cats"
+      "investing",
+      "moneytips",
+      "personalfinance",
+      "budgeting"
     ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
+    "category": "Finance",
+    "thumbnail_emoji": "💰",
+    "thumbnail_color": "#059669"
   },
   {
-    "id": "reel_144",
-    "title": "One-pan meal, minimal cleanup",
-    "creator": "StreetEatsTV",
-    "caption": "One pan, zero regrets",
+    "id": "reel_030",
+    "title": "Quiet messi's quietest, deadliest skill",
+    "creator": "GOATarchive",
+    "caption": "Studying Messi's footwork frame by frame",
     "tags": [
+      "barcelona",
+      "worldcup",
+      "messi"
+    ],
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
+  },
+  {
+    "id": "reel_006",
+    "title": "Legendary free-kick technique tutorial",
+    "creator": "TouchlineTalk",
+    "caption": "Studied this move for a week, still can't do it",
+    "tags": [
+      "skills",
+      "soccer",
+      "matchday"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_120",
+    "title": "Quiet why slow travel changed how I see places",
+    "creator": "WanderClips",
+    "caption": "This town isn't in any guidebook, and that's the point",
+    "tags": [
+      "backpacking",
+      "wanderlust",
+      "adventure",
+      "citylife"
+    ],
+    "category": "Travel",
+    "thumbnail_emoji": "✈️",
+    "thumbnail_color": "#0ea5e9"
+  },
+  {
+    "id": "reel_162",
+    "title": "Quiet why this score works without a single word",
+    "creator": "CutRoomFloor",
+    "caption": "The score is doing more work than the dialogue",
+    "tags": [
+      "movies",
+      "cinema",
+      "filmmaking",
+      "directorscut",
+      "screenplay",
+      "film"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_109",
+    "title": "Quiet openings ranked: top 5 of the decade",
+    "creator": "SakuraFrames",
+    "caption": "That OST hits different at 2am",
+    "tags": [
+      "shonen",
+      "opening",
+      "anime",
+      "otaku",
+      "manga",
+      "animation"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_043",
+    "title": "Legendary ronaldo's header technique breakdown",
+    "creator": "ManUtdVault",
+    "caption": "Still the most complete striker we've seen",
+    "tags": [
+      "siu",
+      "football",
+      "cr7",
+      "portugal",
+      "alnassr",
+      "ronaldo"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_083",
+    "title": "Brutal debugging live: production incident recap",
+    "creator": "CleanCodeClub",
+    "caption": "Shipped it, broke it, fixed it, learned it",
+    "tags": [
+      "softwareengineering",
+      "debugging",
+      "coding",
+      "devlife",
+      "cleancode",
+      "programming"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_147",
+    "title": "Clean one-pan meal, minimal cleanup",
+    "creator": "SlowSimmer",
+    "caption": "Finally got the recipe in writing before it was lost",
+    "tags": [
+      "streetfood",
+      "food",
       "homecooking",
       "recipe",
       "cooking"
@@ -2608,38 +1359,451 @@
     "thumbnail_color": "#f59e0b"
   },
   {
-    "id": "reel_015",
-    "title": "Why this formation keeps winning titles",
+    "id": "reel_064",
+    "title": "Underrated how pastel de nata is actually made",
+    "creator": "LisbonLive",
+    "caption": "This pastry ends every argument",
+    "tags": [
+      "lisbon",
+      "culture",
+      "porto"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_103",
+    "title": "Insane attention mechanism, explained visually",
+    "creator": "EmbeddingSpace",
+    "caption": "Production ML is 80% data plumbing, and that's fine",
+    "tags": [
+      "recommendersystems",
+      "nlp",
+      "deeplearning"
+    ],
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_022",
+    "title": "Messi's insane dribble vs three defenders",
+    "creator": "InterMiamiCF",
+    "caption": "This is why grown men cried in Qatar",
+    "tags": [
+      "messi",
+      "football",
+      "worldcup",
+      "argentina"
+    ],
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
+  },
+  {
+    "id": "reel_160",
+    "title": "Iconic the ending that recontextualizes everything",
+    "creator": "CutRoomFloor",
+    "caption": "Rewatched just for this one editing choice",
+    "tags": [
+      "cinema",
+      "filmmaking",
+      "movies",
+      "directorscut",
+      "screenplay",
+      "film"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_201",
+    "title": "Cat's unbelievable reaction to the new couch",
+    "creator": "CatCafeDaily",
+    "caption": "One week in and already the boss",
+    "tags": [
+      "kitten",
+      "catsofinstagram",
+      "catlife",
+      "catmom"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
+  },
+  {
+    "id": "reel_008",
+    "title": "Underrated tactical breakdown: the false nine explained",
     "creator": "TikiTakaDaily",
     "caption": "Studied this move for a week, still can't do it",
     "tags": [
-      "tactics",
-      "skills",
+      "matchday",
       "goals",
-      "football"
+      "soccer",
+      "skills",
+      "football",
+      "tactics"
     ],
     "category": "Football",
     "thumbnail_emoji": "⚽",
     "thumbnail_color": "#16a34a"
   },
   {
-    "id": "reel_119",
-    "title": "48 hours in a city on a tight budget",
-    "creator": "PassportStamps",
-    "caption": "The best meals are always the unplanned ones",
+    "id": "reel_061",
+    "title": "Legendary fado music and why it hits so hard",
+    "creator": "AlgarveClips",
+    "caption": "This pastry ends every argument",
     "tags": [
-      "travel",
-      "explore",
-      "citylife",
-      "wanderlust",
-      "adventure"
+      "portugal",
+      "lisbon",
+      "porto",
+      "culture",
+      "travel"
     ],
-    "category": "Travel",
-    "thumbnail_emoji": "✈️",
-    "thumbnail_color": "#0ea5e9"
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
   },
   {
-    "id": "reel_037",
+    "id": "reel_134",
+    "title": "Underrated rating relatable moments out of 10",
+    "creator": "MondayMoodTV",
+    "caption": "This is unfortunately a documentary about my life",
+    "tags": [
+      "comedy",
+      "memes",
+      "funny",
+      "humor"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_144",
+    "title": "Quiet grandma's recipe, finally written down",
+    "creator": "SlowSimmer",
+    "caption": "One pan, zero regrets",
+    "tags": [
+      "streetfood",
+      "foodie",
+      "homecooking",
+      "cooking",
+      "food",
+      "recipe"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_049",
+    "title": "Brutal streets of Buenos Aires after the final whistle",
+    "creator": "AlbicelesteTV",
+    "caption": "This country doesn't do quiet celebrations",
+    "tags": [
+      "tango",
+      "buenosaires",
+      "albiceleste",
+      "southamerica",
+      "worldcup"
+    ],
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
+  },
+  {
+    "id": "reel_178",
+    "title": "Insane why index funds beat most stock picks",
+    "creator": "CashflowClips",
+    "caption": "Emergency funds aren't exciting, they're essential",
+    "tags": [
+      "compoundinterest",
+      "investing",
+      "finance"
+    ],
+    "category": "Finance",
+    "thumbnail_emoji": "💰",
+    "thumbnail_color": "#059669"
+  },
+  {
+    "id": "reel_196",
+    "title": "Iconic why she only sits on this one chair",
+    "creator": "PurrCastTV",
+    "caption": "One week in and already the boss",
+    "tags": [
+      "cats",
+      "catmom",
+      "catsofinstagram",
+      "catlife",
+      "kitten"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
+  },
+  {
+    "id": "reel_132",
+    "title": "Clean rating relatable moments out of 10",
+    "creator": "CaptionThis",
+    "caption": "Screenshotting this for later",
+    "tags": [
+      "relatable",
+      "comedy",
+      "trending",
+      "memes",
+      "humor",
+      "funny"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_179",
+    "title": "Legendary the zoomies compilation you needed today",
+    "creator": "RescueTailsTV",
+    "caption": "From shelter to spoiled in record time",
+    "tags": [
+      "puppy",
+      "adoptdontshop",
+      "dogs",
+      "doglife",
+      "goodboy"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_115",
+    "title": "The unbelievable arc that redefined the series",
+    "creator": "ShonenDaily",
+    "caption": "The animation budget for this scene was worth it",
+    "tags": [
+      "otaku",
+      "anime",
+      "shonen",
+      "manga",
+      "opening"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_084",
+    "title": "Iconic the refactor that cut load time in half",
+    "creator": "DevByDay",
+    "caption": "Recursion finally clicked after this analogy",
+    "tags": [
+      "debugging",
+      "programming",
+      "softwareengineering"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_113",
+    "title": "Insane manga vs anime: what got cut and why",
+    "creator": "MangaPanels",
+    "caption": "Still not over this ending",
+    "tags": [
+      "animation",
+      "shonen",
+      "opening",
+      "manga",
+      "otaku",
+      "anime"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_088",
+    "title": "Iconic explaining recursion with a whiteboard",
+    "creator": "TerminalTales",
+    "caption": "Shipped it, broke it, fixed it, learned it",
+    "tags": [
+      "programming",
+      "debugging",
+      "cleancode",
+      "coding",
+      "softwareengineering"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_187",
+    "title": "Underrated training trick that finally stopped the pulling",
+    "creator": "GoldenDaily",
+    "caption": "Zoomies are a personality trait at this point",
+    "tags": [
+      "goodboy",
+      "dogs",
+      "adoptdontshop"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_029",
+    "title": "Clean every angle of THAT free kick",
+    "creator": "LeoClips10",
+    "caption": "This is why grown men cried in Qatar",
+    "tags": [
+      "messi",
+      "goat",
+      "worldcup"
+    ],
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
+  },
+  {
+    "id": "reel_090",
+    "title": "Quiet why this one-liner replaced 40 lines",
+    "creator": "ShipItDaily",
+    "caption": "Small refactor, huge performance win",
+    "tags": [
+      "devlife",
+      "coding",
+      "cleancode",
+      "programming"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_032",
+    "title": "Ronaldo's legendary bicycle kick from every angle",
+    "creator": "SiuMoments",
+    "caption": "Still the most complete striker we've seen",
+    "tags": [
+      "cr7",
+      "ronaldo",
+      "football",
+      "siu",
+      "alnassr"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_073",
+    "title": "Quiet 6 months natural transformation, no shortcuts",
+    "creator": "IronDaily",
+    "caption": "Consistency beats intensity long-term",
+    "tags": [
+      "lifting",
+      "gains",
+      "workout",
+      "fitness"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_180",
+    "title": "Insane the zoomies compilation you needed today",
+    "creator": "PawPatrolClips",
+    "caption": "This trick took three weeks, worth every minute",
+    "tags": [
+      "doglife",
+      "rescue",
+      "puppy",
+      "dogs",
+      "adoptdontshop",
+      "goodboy"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_052",
+    "title": "Underrated how mate became a national ritual",
+    "creator": "PampaClips",
+    "caption": "Vamos Argentina 🇦🇷",
+    "tags": [
+      "buenosaires",
+      "worldcup",
+      "tango"
+    ],
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
+  },
+  {
+    "id": "reel_161",
+    "title": "Brutal the director's commentary detail nobody catches",
+    "creator": "ScoreTalk",
+    "caption": "Forty takes for twelve seconds of footage",
+    "tags": [
+      "cinema",
+      "directorscut",
+      "screenplay",
+      "film"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_011",
+    "title": "Underrated free-kick technique tutorial",
+    "creator": "TikiTakaDaily",
+    "caption": "Studied this move for a week, still can't do it",
+    "tags": [
+      "matchday",
+      "tactics",
+      "soccer"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_182",
+    "title": "Legendary golden retriever tax, collected",
+    "creator": "RescueTailsTV",
+    "caption": "Golden retriever tax has been paid",
+    "tags": [
+      "adoptdontshop",
+      "puppy",
+      "goodboy"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_102",
+    "title": "Underrated online learning vs batch training, compared",
+    "creator": "NeuralNotes",
+    "caption": "Cosine similarity in one sentence: direction, not distance",
+    "tags": [
+      "recommendersystems",
+      "deeplearning",
+      "machinelearning"
+    ],
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_035",
     "title": "Ronaldo's underrated bicycle kick from every angle",
     "creator": "AlNassrClips",
     "caption": "The work ethic nobody talks enough about",
@@ -2656,8 +1820,168 @@
     "thumbnail_color": "#dc2626"
   },
   {
-    "id": "reel_178",
-    "title": "Why index funds beat most stock picks",
+    "id": "reel_131",
+    "title": "POV: it's brutal and Monday at the same time",
+    "creator": "MondayMoodTV",
+    "caption": "This is unfortunately a documentary about my life",
+    "tags": [
+      "humor",
+      "comedy",
+      "funny",
+      "relatable",
+      "memes"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_105",
+    "title": "Unbelievable online learning vs batch training, compared",
+    "creator": "PromptLab",
+    "caption": "This diagram made embeddings finally click",
+    "tags": [
+      "recommendersystems",
+      "nlp",
+      "deeplearning",
+      "embeddings",
+      "ai"
+    ],
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_033",
+    "title": "Unbelievable the gym routine behind the longevity",
+    "creator": "SiuMoments",
+    "caption": "The work ethic nobody talks enough about",
+    "tags": [
+      "ronaldo",
+      "cr7",
+      "football",
+      "siu"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_175",
+    "title": "Iconic emergency fund math, simplified",
+    "creator": "BudgetByNumbers",
+    "caption": "Numbers don't lie, plans do",
+    "tags": [
+      "budgeting",
+      "personalfinance",
+      "investing",
+      "compoundinterest",
+      "finance",
+      "moneytips"
+    ],
+    "category": "Finance",
+    "thumbnail_emoji": "💰",
+    "thumbnail_color": "#059669"
+  },
+  {
+    "id": "reel_080",
+    "title": "Clean push day, explained in 40 seconds",
+    "creator": "GymRatDiaries",
+    "caption": "Consistency beats intensity long-term",
+    "tags": [
+      "gains",
+      "lifting",
+      "fitness",
+      "workout",
+      "gym",
+      "discipline"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_025",
+    "title": "Leo's 2022 highlight reel",
+    "creator": "BarcaLegends",
+    "caption": "This is why grown men cried in Qatar",
+    "tags": [
+      "barcelona",
+      "messi",
+      "goat",
+      "argentina"
+    ],
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
+  },
+  {
+    "id": "reel_031",
+    "title": "SIU celebration compilation 2024",
+    "creator": "AlNassrClips",
+    "caption": "Discipline is a lifestyle, not a phase 🇵🇹",
+    "tags": [
+      "siu",
+      "cr7",
+      "alnassr",
+      "ronaldo",
+      "portugal",
+      "football"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_156",
+    "title": "Quiet the director's commentary detail nobody catches",
+    "creator": "DirectorsCutTV",
+    "caption": "Forty takes for twelve seconds of footage",
+    "tags": [
+      "movies",
+      "screenplay",
+      "film"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_068",
+    "title": "Portugal's 2023 squad depth, ranked",
+    "creator": "AlgarveClips",
+    "caption": "Every tile tells a story here",
+    "tags": [
+      "culture",
+      "algarve",
+      "portugal",
+      "porto",
+      "travel"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_155",
+    "title": "The iconic scene that took 40 takes",
+    "creator": "DirectorsCutTV",
+    "caption": "Practical effects still hit different",
+    "tags": [
+      "screenplay",
+      "movies",
+      "film",
+      "filmmaking",
+      "directorscut",
+      "cinema"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_174",
+    "title": "Unbelievable why index funds beat most stock picks",
     "creator": "IndexFundTalk",
     "caption": "Boring investing is still the best investing",
     "tags": [
@@ -2672,44 +1996,61 @@
     "thumbnail_color": "#059669"
   },
   {
-    "id": "reel_058",
-    "title": "How pastel de nata is actually made",
-    "creator": "PortoDaily",
-    "caption": "Coastal towns nobody talks about enough",
+    "id": "reel_028",
+    "title": "Clean why Messi never needed pace",
+    "creator": "MessiMoments",
+    "caption": "There will never be another one 🐐",
     "tags": [
-      "porto",
-      "algarve",
-      "lisbon"
+      "messi",
+      "worldcup",
+      "barcelona",
+      "football",
+      "goat"
     ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
   },
   {
-    "id": "reel_062",
-    "title": "How pastel de nata is actually made",
-    "creator": "AzulejosTV",
-    "caption": "This pastry ends every argument",
+    "id": "reel_046",
+    "title": "Brutal patagonia's most underrated hiking trail",
+    "creator": "AlbicelesteTV",
+    "caption": "Buenos Aires never sleeps during a final",
     "tags": [
-      "algarve",
-      "travel",
-      "porto",
-      "lisbon",
-      "culture"
+      "tango",
+      "southamerica",
+      "argentina",
+      "buenosaires"
     ],
-    "category": "Portugal",
-    "thumbnail_emoji": "🇵🇹",
-    "thumbnail_color": "#22c55e"
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
   },
   {
-    "id": "reel_122",
-    "title": "Street food tour: the underrated stop was the best",
-    "creator": "OffThePathTV",
-    "caption": "Budget travel doesn't mean a worse trip",
+    "id": "reel_111",
+    "title": "The legendary arc that redefined the series",
+    "creator": "OpeningsArchive",
+    "caption": "This arc lives in my head rent-free 🎌",
+    "tags": [
+      "animation",
+      "opening",
+      "shonen",
+      "manga"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_129",
+    "title": "The quiet hidden town nobody talks about",
+    "creator": "BackpackDiaries",
+    "caption": "This town isn't in any guidebook, and that's the point",
     "tags": [
       "wanderlust",
-      "travel",
+      "citylife",
       "adventure",
+      "travel",
       "backpacking",
       "explore"
     ],
@@ -2718,311 +2059,8 @@
     "thumbnail_color": "#0ea5e9"
   },
   {
-    "id": "reel_138",
-    "title": "Rating relatable moments out of 10",
-    "creator": "MondayMoodTV",
-    "caption": "This is unfortunately a documentary about my life",
-    "tags": [
-      "funny",
-      "comedy",
-      "memes",
-      "humor",
-      "trending"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_048",
-    "title": "Patagonia's most underrated hiking trail",
-    "creator": "MateAndFutbol",
-    "caption": "Vamos Argentina 🇦🇷",
-    "tags": [
-      "buenosaires",
-      "worldcup",
-      "tango",
-      "albiceleste",
-      "argentina",
-      "southamerica"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_097",
-    "title": "The quiet gap between demo and production ML",
-    "creator": "PromptLab",
-    "caption": "Online learning means the model never stops listening",
-    "tags": [
-      "ai",
-      "machinelearning",
-      "recommendersystems",
-      "nlp",
-      "deeplearning"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_201",
-    "title": "Rescue cat's first week, day by day",
-    "creator": "MidnightZoomies",
-    "caption": "One week in and already the boss",
-    "tags": [
-      "catmom",
-      "catsofinstagram",
-      "cats",
-      "kitten"
-    ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
-  },
-  {
-    "id": "reel_039",
-    "title": "The free-kick knuckleball, explained",
-    "creator": "AlNassrClips",
-    "caption": "This is what 20 years at the top looks like",
-    "tags": [
-      "portugal",
-      "football",
-      "alnassr",
-      "siu",
-      "ronaldo",
-      "cr7"
-    ],
-    "category": "Ronaldo",
-    "thumbnail_emoji": "7️⃣",
-    "thumbnail_color": "#dc2626"
-  },
-  {
-    "id": "reel_105",
-    "title": "Online learning vs batch training, compared",
-    "creator": "PromptLab",
-    "caption": "The vector space is where the magic happens 🤖",
-    "tags": [
-      "embeddings",
-      "deeplearning",
-      "ai",
-      "machinelearning",
-      "recommendersystems",
-      "nlp"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_107",
-    "title": "The quiet arc that redefined the series",
-    "creator": "SakuraFrames",
-    "caption": "This arc lives in my head rent-free 🎌",
-    "tags": [
-      "shonen",
-      "opening",
-      "otaku",
-      "manga",
-      "animation"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
-    "id": "reel_179",
-    "title": "Golden retriever tax, collected",
-    "creator": "ParkDayLog",
-    "caption": "Zoomies are a personality trait at this point",
-    "tags": [
-      "doglife",
-      "puppy",
-      "rescue",
-      "adoptdontshop",
-      "dogs",
-      "goodboy"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_082",
-    "title": "Why this one-liner replaced 40 lines",
-    "creator": "ShipItDaily",
-    "caption": "Recursion finally clicked after this analogy",
-    "tags": [
-      "coding",
-      "softwareengineering",
-      "cleancode",
-      "debugging",
-      "programming"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_135",
-    "title": "Rating relatable moments out of 10",
-    "creator": "CaptionThis",
-    "caption": "Screenshotting this for later",
-    "tags": [
-      "relatable",
-      "comedy",
-      "trending",
-      "memes",
-      "humor",
-      "funny"
-    ],
-    "category": "Memes",
-    "thumbnail_emoji": "🤣",
-    "thumbnail_color": "#eab308"
-  },
-  {
-    "id": "reel_098",
-    "title": "Attention mechanism, explained visually",
-    "creator": "GradientDescentTV",
-    "caption": "Production ML is 80% data plumbing, and that's fine",
-    "tags": [
-      "ai",
-      "machinelearning",
-      "nlp",
-      "recommendersystems",
-      "deeplearning",
-      "embeddings"
-    ],
-    "category": "AI",
-    "thumbnail_emoji": "🤖",
-    "thumbnail_color": "#7c3aed"
-  },
-  {
-    "id": "reel_172",
-    "title": "The budgeting rule that actually stuck",
-    "creator": "BudgetByNumbers",
-    "caption": "Emergency funds aren't exciting, they're essential",
-    "tags": [
-      "investing",
-      "budgeting",
-      "personalfinance",
-      "moneytips",
-      "compoundinterest"
-    ],
-    "category": "Finance",
-    "thumbnail_emoji": "💰",
-    "thumbnail_color": "#059669"
-  },
-  {
-    "id": "reel_165",
-    "title": "Why this score works without a single word",
-    "creator": "CutRoomFloor",
-    "caption": "The score is doing more work than the dialogue",
-    "tags": [
-      "movies",
-      "cinema",
-      "filmmaking",
-      "directorscut",
-      "screenplay",
-      "film"
-    ],
-    "category": "Movies",
-    "thumbnail_emoji": "🎬",
-    "thumbnail_color": "#334155"
-  },
-  {
-    "id": "reel_089",
-    "title": "Debugging live: production incident recap",
-    "creator": "CleanCodeClub",
-    "caption": "It was a missing semicolon. It's always a missing semicolon.",
-    "tags": [
-      "cleancode",
-      "programming",
-      "debugging",
-      "softwareengineering",
-      "coding",
-      "devlife"
-    ],
-    "category": "Coding",
-    "thumbnail_emoji": "💻",
-    "thumbnail_color": "#4f46e5"
-  },
-  {
-    "id": "reel_013",
-    "title": "Last-minute winner from 35 yards out",
-    "creator": "TouchlineTalk",
-    "caption": "Studied this move for a week, still can't do it",
-    "tags": [
-      "skills",
-      "matchday",
-      "football",
-      "tactics"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_127",
-    "title": "The overnight train route worth the discomfort",
-    "creator": "OffThePathTV",
-    "caption": "The best meals are always the unplanned ones",
-    "tags": [
-      "explore",
-      "travel",
-      "backpacking"
-    ],
-    "category": "Travel",
-    "thumbnail_emoji": "✈️",
-    "thumbnail_color": "#0ea5e9"
-  },
-  {
-    "id": "reel_198",
-    "title": "Why she only sits on this one chair",
-    "creator": "WhiskerLog",
-    "caption": "That chair has been hers since day one",
-    "tags": [
-      "catlife",
-      "kitten",
-      "catmom"
-    ],
-    "category": "Cats",
-    "thumbnail_emoji": "🐱",
-    "thumbnail_color": "#7c2d12"
-  },
-  {
-    "id": "reel_110",
-    "title": "The brutal arc that redefined the series",
-    "creator": "OpeningsArchive",
-    "caption": "The animation budget for this scene was worth it",
-    "tags": [
-      "shonen",
-      "opening",
-      "otaku"
-    ],
-    "category": "Anime",
-    "thumbnail_emoji": "🎌",
-    "thumbnail_color": "#ec4899"
-  },
-  {
-    "id": "reel_174",
-    "title": "What your 20s net worth should roughly look like",
-    "creator": "BudgetByNumbers",
-    "caption": "Emergency funds aren't exciting, they're essential",
-    "tags": [
-      "compoundinterest",
-      "finance",
-      "budgeting",
-      "moneytips"
-    ],
-    "category": "Finance",
-    "thumbnail_emoji": "💰",
-    "thumbnail_color": "#059669"
-  },
-  {
-    "id": "reel_161",
-    "title": "Why this score works without a single word",
+    "id": "reel_158",
+    "title": "Iconic why this score works without a single word",
     "creator": "CutRoomFloor",
     "caption": "Practical effects still hit different",
     "tags": [
@@ -3036,100 +2074,7 @@
     "thumbnail_color": "#334155"
   },
   {
-    "id": "reel_045",
-    "title": "Patagonia's most underrated hiking trail",
-    "creator": "PampaClips",
-    "caption": "Buenos Aires never sleeps during a final",
-    "tags": [
-      "worldcup",
-      "tango",
-      "albiceleste",
-      "buenosaires",
-      "southamerica",
-      "argentina"
-    ],
-    "category": "Argentina",
-    "thumbnail_emoji": "🇦🇷",
-    "thumbnail_color": "#75aadb"
-  },
-  {
-    "id": "reel_189",
-    "title": "The zoomies compilation you needed today",
-    "creator": "PawPatrolClips",
-    "caption": "This trick took three weeks, worth every minute",
-    "tags": [
-      "doglife",
-      "puppy",
-      "rescue"
-    ],
-    "category": "Dogs",
-    "thumbnail_emoji": "🐶",
-    "thumbnail_color": "#b45309"
-  },
-  {
-    "id": "reel_152",
-    "title": "Grandma's recipe, finally written down",
-    "creator": "KitchenLog",
-    "caption": "Finally got the recipe in writing before it was lost",
-    "tags": [
-      "streetfood",
-      "foodie",
-      "recipe",
-      "cooking"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_143",
-    "title": "Meal prep for people who hate meal prep",
-    "creator": "SlowSimmer",
-    "caption": "Sauce first, questions later",
-    "tags": [
-      "streetfood",
-      "foodie",
-      "recipe"
-    ],
-    "category": "Food",
-    "thumbnail_emoji": "🍜",
-    "thumbnail_color": "#f59e0b"
-  },
-  {
-    "id": "reel_016",
-    "title": "Nutmeg compilation that will make you cry",
-    "creator": "FullTimeFC",
-    "caption": "Tactics nerds, this one's for you",
-    "tags": [
-      "football",
-      "soccer",
-      "skills",
-      "matchday",
-      "goals",
-      "tactics"
-    ],
-    "category": "Football",
-    "thumbnail_emoji": "⚽",
-    "thumbnail_color": "#16a34a"
-  },
-  {
-    "id": "reel_071",
-    "title": "The deadlift cue nobody tells beginners",
-    "creator": "GymRatDiaries",
-    "caption": "Form check before you add more plates",
-    "tags": [
-      "discipline",
-      "gains",
-      "gym",
-      "lifting",
-      "workout"
-    ],
-    "category": "Gym",
-    "thumbnail_emoji": "💪",
-    "thumbnail_color": "#f97316"
-  },
-  {
-    "id": "reel_077",
+    "id": "reel_074",
     "title": "Recovery routine of a brutal lifter",
     "creator": "IronDaily",
     "caption": "Six months of showing up, this is the result",
@@ -3145,20 +2090,1084 @@
     "thumbnail_color": "#f97316"
   },
   {
-    "id": "reel_106",
-    "title": "Online learning vs batch training, compared",
-    "creator": "PromptLab",
-    "caption": "The vector space is where the magic happens 🤖",
+    "id": "reel_071",
+    "title": "The insane form fix that saved my shoulders",
+    "creator": "GymRatDiaries",
+    "caption": "The unsexy basics still win",
     "tags": [
-      "recommendersystems",
-      "ai",
+      "gym",
+      "fitness",
+      "discipline"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_163",
+    "title": "Legendary why this score works without a single word",
+    "creator": "CutRoomFloor",
+    "caption": "Forty takes for twelve seconds of footage",
+    "tags": [
+      "screenplay",
+      "filmmaking",
+      "directorscut",
+      "film",
+      "cinema",
+      "movies"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_004",
+    "title": "Iconic free-kick technique tutorial",
+    "creator": "ProKicksTV",
+    "caption": "Matchday energy hits different",
+    "tags": [
+      "football",
+      "skills",
+      "tactics",
+      "goals",
+      "soccer",
+      "matchday"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_153",
+    "title": "Underrated grandma's recipe, finally written down",
+    "creator": "StreetEatsTV",
+    "caption": "One pan, zero regrets",
+    "tags": [
+      "recipe",
+      "homecooking",
+      "cooking",
+      "food"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_137",
+    "title": "POV: it's iconic and Monday at the same time",
+    "creator": "MondayMoodTV",
+    "caption": "Screenshotting this for later",
+    "tags": [
+      "memes",
+      "relatable",
+      "funny",
+      "comedy",
+      "humor",
+      "trending"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_154",
+    "title": "Legendary street food stall that ruined every restaurant for me",
+    "creator": "FiveIngredients",
+    "caption": "Cooking should be this simple 🍜",
+    "tags": [
+      "foodie",
+      "homecooking",
+      "cooking",
+      "recipe",
+      "food"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_191",
+    "title": "Legendary rescue cat's first week, day by day",
+    "creator": "MidnightZoomies",
+    "caption": "3am is prime zoomies hour, apparently",
+    "tags": [
+      "kitten",
+      "funnycats",
+      "cats",
+      "catlife",
+      "catmom",
+      "catsofinstagram"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
+  },
+  {
+    "id": "reel_125",
+    "title": "Underrated packing light for a month abroad",
+    "creator": "OffThePathTV",
+    "caption": "Get lost on purpose sometimes ✈️",
+    "tags": [
+      "explore",
+      "adventure",
+      "wanderlust",
+      "citylife",
+      "backpacking",
+      "travel"
+    ],
+    "category": "Travel",
+    "thumbnail_emoji": "✈️",
+    "thumbnail_color": "#0ea5e9"
+  },
+  {
+    "id": "reel_124",
+    "title": "Unbelievable the overnight train route worth the discomfort",
+    "creator": "OffThePathTV",
+    "caption": "The best meals are always the unplanned ones",
+    "tags": [
+      "explore",
+      "travel",
+      "backpacking"
+    ],
+    "category": "Travel",
+    "thumbnail_emoji": "✈️",
+    "thumbnail_color": "#0ea5e9"
+  },
+  {
+    "id": "reel_159",
+    "title": "The insane scene that took 40 takes",
+    "creator": "ScoreTalk",
+    "caption": "Practical effects still hit different",
+    "tags": [
+      "screenplay",
+      "filmmaking",
+      "movies",
+      "film"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_096",
+    "title": "Underrated embeddings explained with one diagram",
+    "creator": "PromptLab",
+    "caption": "Production ML is 80% data plumbing, and that's fine",
+    "tags": [
       "nlp",
+      "deeplearning",
+      "recommendersystems",
       "embeddings",
-      "machinelearning",
-      "deeplearning"
+      "ai"
     ],
     "category": "AI",
     "thumbnail_emoji": "🤖",
     "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_117",
+    "title": "Underrated why this villain's arc is the best written",
+    "creator": "MangaPanels",
+    "caption": "That OST hits different at 2am",
+    "tags": [
+      "otaku",
+      "anime",
+      "animation",
+      "shonen",
+      "manga",
+      "opening"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_130",
+    "title": "The insane hidden town nobody talks about",
+    "creator": "OffThePathTV",
+    "caption": "The best meals are always the unplanned ones",
+    "tags": [
+      "wanderlust",
+      "citylife",
+      "adventure",
+      "backpacking",
+      "travel",
+      "explore"
+    ],
+    "category": "Travel",
+    "thumbnail_emoji": "✈️",
+    "thumbnail_color": "#0ea5e9"
+  },
+  {
+    "id": "reel_056",
+    "title": "Qatar 2023: the celebration that never ended",
+    "creator": "TangoNights",
+    "caption": "Vamos Argentina 🇦🇷",
+    "tags": [
+      "albiceleste",
+      "tango",
+      "worldcup",
+      "southamerica",
+      "argentina",
+      "buenosaires"
+    ],
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
+  },
+  {
+    "id": "reel_003",
+    "title": "Clean nutmeg compilation that will make you cry",
+    "creator": "MatchdayClips",
+    "caption": "Football is a religion and this clip is proof ⚽",
+    "tags": [
+      "tactics",
+      "matchday",
+      "soccer",
+      "football",
+      "goals",
+      "skills"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_039",
+    "title": "Brutal the gym routine behind the longevity",
+    "creator": "JuveLegacy",
+    "caption": "Still the most complete striker we've seen",
+    "tags": [
+      "alnassr",
+      "cr7",
+      "football",
+      "portugal",
+      "ronaldo",
+      "siu"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_018",
+    "title": "Messi's brutal dribble vs three defenders",
+    "creator": "GOATarchive",
+    "caption": "There will never be another one 🐐",
+    "tags": [
+      "goat",
+      "football",
+      "argentina",
+      "messi"
+    ],
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
+  },
+  {
+    "id": "reel_060",
+    "title": "Quiet how pastel de nata is actually made",
+    "creator": "AlgarveClips",
+    "caption": "Coastal towns nobody talks about enough",
+    "tags": [
+      "lisbon",
+      "portugal",
+      "culture",
+      "algarve",
+      "travel"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_164",
+    "title": "The brutal scene that took 40 takes",
+    "creator": "CutRoomFloor",
+    "caption": "Forty takes for twelve seconds of footage",
+    "tags": [
+      "movies",
+      "directorscut",
+      "cinema",
+      "film",
+      "filmmaking"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_197",
+    "title": "Clean the stare that means 'feed me now'",
+    "creator": "LapCatClips",
+    "caption": "One week in and already the boss",
+    "tags": [
+      "funnycats",
+      "kitten",
+      "catmom",
+      "cats",
+      "catsofinstagram"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
+  },
+  {
+    "id": "reel_002",
+    "title": "Insane derby day chaos: full recap",
+    "creator": "MatchdayClips",
+    "caption": "Studied this move for a week, still can't do it",
+    "tags": [
+      "skills",
+      "soccer",
+      "goals"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_013",
+    "title": "Underrated nutmeg compilation that will make you cry",
+    "creator": "FullTimeFC",
+    "caption": "Football is a religion and this clip is proof ⚽",
+    "tags": [
+      "soccer",
+      "goals",
+      "matchday",
+      "skills"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_020",
+    "title": "Unbelievable messi's quietest, deadliest skill",
+    "creator": "MessiMoments",
+    "caption": "Studying Messi's footwork frame by frame",
+    "tags": [
+      "argentina",
+      "messi",
+      "goat",
+      "worldcup"
+    ],
+    "category": "Messi",
+    "thumbnail_emoji": "🐐",
+    "thumbnail_color": "#38bdf8"
+  },
+  {
+    "id": "reel_009",
+    "title": "Brutal tactical breakdown: the false nine explained",
+    "creator": "MatchdayClips",
+    "caption": "The beautiful game, one touch at a time",
+    "tags": [
+      "skills",
+      "goals",
+      "football",
+      "matchday"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_135",
+    "title": "Quiet the comment section wrote this one for us",
+    "creator": "OfficeMemesDaily",
+    "caption": "I did not write this but I felt it 🤣",
+    "tags": [
+      "memes",
+      "relatable",
+      "humor",
+      "trending"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_016",
+    "title": "Iconic nutmeg compilation that will make you cry",
+    "creator": "FullTimeFC",
+    "caption": "Studied this move for a week, still can't do it",
+    "tags": [
+      "matchday",
+      "skills",
+      "goals",
+      "football"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_139",
+    "title": "Brutal rating relatable moments out of 10",
+    "creator": "MondayMoodTV",
+    "caption": "Sending this to the group chat immediately",
+    "tags": [
+      "funny",
+      "memes",
+      "relatable",
+      "trending",
+      "comedy",
+      "humor"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_048",
+    "title": "Brutal the tango move that takes years to learn",
+    "creator": "BuenosAiresDaily",
+    "caption": "Buenos Aires never sleeps during a final",
+    "tags": [
+      "tango",
+      "worldcup",
+      "argentina"
+    ],
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
+  },
+  {
+    "id": "reel_169",
+    "title": "Clean debt payoff strategy compared: avalanche vs snowball",
+    "creator": "CompoundDaily",
+    "caption": "The rule that finally made budgeting stick",
+    "tags": [
+      "personalfinance",
+      "finance",
+      "budgeting",
+      "compoundinterest",
+      "investing"
+    ],
+    "category": "Finance",
+    "thumbnail_emoji": "💰",
+    "thumbnail_color": "#059669"
+  },
+  {
+    "id": "reel_140",
+    "title": "Insane the comment section wrote this one for us",
+    "creator": "OfficeMemesDaily",
+    "caption": "Too real, honestly",
+    "tags": [
+      "relatable",
+      "memes",
+      "humor"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_036",
+    "title": "Ronaldo's brutal bicycle kick from every angle",
+    "creator": "JuveLegacy",
+    "caption": "The work ethic nobody talks enough about",
+    "tags": [
+      "alnassr",
+      "portugal",
+      "siu"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_167",
+    "title": "Quiet emergency fund math, simplified",
+    "creator": "LedgerLogic",
+    "caption": "Boring investing is still the best investing",
+    "tags": [
+      "moneytips",
+      "finance",
+      "compoundinterest",
+      "budgeting",
+      "personalfinance",
+      "investing"
+    ],
+    "category": "Finance",
+    "thumbnail_emoji": "💰",
+    "thumbnail_color": "#059669"
+  },
+  {
+    "id": "reel_091",
+    "title": "Insane clean code principle you're probably ignoring",
+    "creator": "DevByDay",
+    "caption": "Readable code is a gift to future you",
+    "tags": [
+      "softwareengineering",
+      "debugging",
+      "programming",
+      "coding",
+      "devlife"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_044",
+    "title": "Clean ronaldo's mentality in his own words",
+    "creator": "JuveLegacy",
+    "caption": "The work ethic nobody talks enough about",
+    "tags": [
+      "alnassr",
+      "portugal",
+      "cr7"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_118",
+    "title": "Clean manga vs anime: what got cut and why",
+    "creator": "MangaPanels",
+    "caption": "This arc lives in my head rent-free 🎌",
+    "tags": [
+      "manga",
+      "animation",
+      "shonen"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_171",
+    "title": "Brutal debt payoff strategy compared: avalanche vs snowball",
+    "creator": "BudgetByNumbers",
+    "caption": "Compound interest is the closest thing to magic 💰",
+    "tags": [
+      "investing",
+      "finance",
+      "budgeting"
+    ],
+    "category": "Finance",
+    "thumbnail_emoji": "💰",
+    "thumbnail_color": "#059669"
+  },
+  {
+    "id": "reel_165",
+    "title": "Insane editing choice that changes the whole meaning",
+    "creator": "ScoreTalk",
+    "caption": "Forty takes for twelve seconds of footage",
+    "tags": [
+      "filmmaking",
+      "cinema",
+      "movies",
+      "film",
+      "directorscut"
+    ],
+    "category": "Movies",
+    "thumbnail_emoji": "🎬",
+    "thumbnail_color": "#334155"
+  },
+  {
+    "id": "reel_126",
+    "title": "Brutal the overnight train route worth the discomfort",
+    "creator": "WanderClips",
+    "caption": "Budget travel doesn't mean a worse trip",
+    "tags": [
+      "travel",
+      "adventure",
+      "explore",
+      "wanderlust",
+      "backpacking"
+    ],
+    "category": "Travel",
+    "thumbnail_emoji": "✈️",
+    "thumbnail_color": "#0ea5e9"
+  },
+  {
+    "id": "reel_066",
+    "title": "Brutal the Algarve coastline drone tour",
+    "creator": "LisbonLive",
+    "caption": "Fado gives me chills every time",
+    "tags": [
+      "culture",
+      "lisbon",
+      "porto",
+      "algarve"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_087",
+    "title": "Iconic clean code principle you're probably ignoring",
+    "creator": "TerminalTales",
+    "caption": "It was a missing semicolon. It's always a missing semicolon.",
+    "tags": [
+      "devlife",
+      "cleancode",
+      "programming",
+      "coding",
+      "debugging"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_168",
+    "title": "Clean the budgeting rule that actually stuck",
+    "creator": "BudgetByNumbers",
+    "caption": "Emergency funds aren't exciting, they're essential",
+    "tags": [
+      "investing",
+      "budgeting",
+      "personalfinance",
+      "moneytips",
+      "compoundinterest"
+    ],
+    "category": "Finance",
+    "thumbnail_emoji": "💰",
+    "thumbnail_color": "#059669"
+  },
+  {
+    "id": "reel_141",
+    "title": "Underrated this format never misses",
+    "creator": "DailyDump",
+    "caption": "Sending this to the group chat immediately",
+    "tags": [
+      "trending",
+      "relatable",
+      "funny",
+      "humor",
+      "comedy"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_128",
+    "title": "Brutal why slow travel changed how I see places",
+    "creator": "PassportStamps",
+    "caption": "This town isn't in any guidebook, and that's the point",
+    "tags": [
+      "citylife",
+      "explore",
+      "backpacking"
+    ],
+    "category": "Travel",
+    "thumbnail_emoji": "✈️",
+    "thumbnail_color": "#0ea5e9"
+  },
+  {
+    "id": "reel_063",
+    "title": "Clean fado music and why it hits so hard",
+    "creator": "AlgarveClips",
+    "caption": "Fado gives me chills every time",
+    "tags": [
+      "algarve",
+      "culture",
+      "porto",
+      "portugal",
+      "travel",
+      "lisbon"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_146",
+    "title": "Iconic meal prep for people who hate meal prep",
+    "creator": "FiveIngredients",
+    "caption": "Cooking should be this simple 🍜",
+    "tags": [
+      "recipe",
+      "foodie",
+      "homecooking",
+      "food",
+      "cooking"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_098",
+    "title": "Quiet embeddings explained with one diagram",
+    "creator": "PromptLab",
+    "caption": "The vector space is where the magic happens 🤖",
+    "tags": [
+      "machinelearning",
+      "ai",
+      "recommendersystems",
+      "deeplearning",
+      "embeddings"
+    ],
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_059",
+    "title": "Underrated lisbon's hidden viewpoints you're missing",
+    "creator": "PortoDaily",
+    "caption": "This pastry ends every argument",
+    "tags": [
+      "culture",
+      "travel",
+      "porto",
+      "lisbon",
+      "algarve"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_085",
+    "title": "The insane bug that took 6 hours to find",
+    "creator": "ShipItDaily",
+    "caption": "Shipped it, broke it, fixed it, learned it",
+    "tags": [
+      "debugging",
+      "programming",
+      "cleancode",
+      "softwareengineering",
+      "devlife"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_051",
+    "title": "Insane how mate became a national ritual",
+    "creator": "BuenosAiresDaily",
+    "caption": "This country doesn't do quiet celebrations",
+    "tags": [
+      "southamerica",
+      "argentina",
+      "albiceleste",
+      "tango",
+      "buenosaires",
+      "worldcup"
+    ],
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
+  },
+  {
+    "id": "reel_040",
+    "title": "SIU celebration compilation 2022",
+    "creator": "SiuMoments",
+    "caption": "The work ethic nobody talks enough about",
+    "tags": [
+      "cr7",
+      "ronaldo",
+      "siu",
+      "football"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_076",
+    "title": "Legendary why progressive overload is non-negotiable",
+    "creator": "IronDaily",
+    "caption": "Six months of showing up, this is the result",
+    "tags": [
+      "discipline",
+      "workout",
+      "fitness"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_107",
+    "title": "Quiet the soundtrack cue that hits every time",
+    "creator": "OpeningsArchive",
+    "caption": "That OST hits different at 2am",
+    "tags": [
+      "opening",
+      "anime",
+      "animation",
+      "manga",
+      "otaku"
+    ],
+    "category": "Anime",
+    "thumbnail_emoji": "🎌",
+    "thumbnail_color": "#ec4899"
+  },
+  {
+    "id": "reel_185",
+    "title": "Senior dog's unbelievable reaction to the beach",
+    "creator": "GoldenDaily",
+    "caption": "From shelter to spoiled in record time",
+    "tags": [
+      "doglife",
+      "goodboy",
+      "puppy",
+      "adoptdontshop"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_149",
+    "title": "Insane meal prep for people who hate meal prep",
+    "creator": "FiveIngredients",
+    "caption": "Sauce first, questions later",
+    "tags": [
+      "foodie",
+      "food",
+      "cooking",
+      "recipe",
+      "streetfood"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_150",
+    "title": "Quiet the sauce that fixes almost anything",
+    "creator": "KitchenLog",
+    "caption": "This stall changed my entire palate",
+    "tags": [
+      "streetfood",
+      "cooking",
+      "foodie"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_142",
+    "title": "Clean text posts turned into a sketch",
+    "creator": "DailyDump",
+    "caption": "Sending this to the group chat immediately",
+    "tags": [
+      "memes",
+      "relatable",
+      "funny",
+      "humor",
+      "trending",
+      "comedy"
+    ],
+    "category": "Memes",
+    "thumbnail_emoji": "🤣",
+    "thumbnail_color": "#eab308"
+  },
+  {
+    "id": "reel_067",
+    "title": "Legendary lisbon's hidden viewpoints you're missing",
+    "creator": "LisbonLive",
+    "caption": "Fado gives me chills every time",
+    "tags": [
+      "portugal",
+      "algarve",
+      "travel",
+      "porto"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_005",
+    "title": "Last-minute winner from 35 yards out",
+    "creator": "ProKicksTV",
+    "caption": "The beautiful game, one touch at a time",
+    "tags": [
+      "football",
+      "goals",
+      "tactics",
+      "soccer"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_038",
+    "title": "Brutal ronaldo's header technique breakdown",
+    "creator": "ManUtdVault",
+    "caption": "This is what 20 years at the top looks like",
+    "tags": [
+      "football",
+      "siu",
+      "ronaldo",
+      "cr7",
+      "portugal"
+    ],
+    "category": "Ronaldo",
+    "thumbnail_emoji": "7️⃣",
+    "thumbnail_color": "#dc2626"
+  },
+  {
+    "id": "reel_190",
+    "title": "Rescue pup's brutal first day home",
+    "creator": "PawPatrolClips",
+    "caption": "Zoomies are a personality trait at this point",
+    "tags": [
+      "doglife",
+      "dogs",
+      "puppy"
+    ],
+    "category": "Dogs",
+    "thumbnail_emoji": "🐶",
+    "thumbnail_color": "#b45309"
+  },
+  {
+    "id": "reel_057",
+    "title": "Legendary the Algarve coastline drone tour",
+    "creator": "AlgarveClips",
+    "caption": "Coastal towns nobody talks about enough",
+    "tags": [
+      "porto",
+      "travel",
+      "culture",
+      "algarve",
+      "portugal"
+    ],
+    "category": "Portugal",
+    "thumbnail_emoji": "🇵🇹",
+    "thumbnail_color": "#22c55e"
+  },
+  {
+    "id": "reel_145",
+    "title": "Clean grandma's recipe, finally written down",
+    "creator": "SlowSimmer",
+    "caption": "Cooking should be this simple 🍜",
+    "tags": [
+      "foodie",
+      "homecooking",
+      "cooking"
+    ],
+    "category": "Food",
+    "thumbnail_emoji": "🍜",
+    "thumbnail_color": "#f59e0b"
+  },
+  {
+    "id": "reel_012",
+    "title": "How top clubs are pressing in 2022",
+    "creator": "TouchlineTalk",
+    "caption": "Matchday energy hits different",
+    "tags": [
+      "football",
+      "matchday",
+      "tactics",
+      "soccer",
+      "skills",
+      "goals"
+    ],
+    "category": "Football",
+    "thumbnail_emoji": "⚽",
+    "thumbnail_color": "#16a34a"
+  },
+  {
+    "id": "reel_106",
+    "title": "Brutal how recommendation engines actually work",
+    "creator": "TransformerTalks",
+    "caption": "Cosine similarity in one sentence: direction, not distance",
+    "tags": [
+      "ai",
+      "nlp",
+      "deeplearning",
+      "recommendersystems",
+      "machinelearning",
+      "embeddings"
+    ],
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_081",
+    "title": "Brutal push day, explained in 40 seconds",
+    "creator": "LiftLab",
+    "caption": "Six months of showing up, this is the result",
+    "tags": [
+      "discipline",
+      "fitness",
+      "gains",
+      "gym",
+      "lifting",
+      "workout"
+    ],
+    "category": "Gym",
+    "thumbnail_emoji": "💪",
+    "thumbnail_color": "#f97316"
+  },
+  {
+    "id": "reel_095",
+    "title": "Unbelievable attention mechanism, explained visually",
+    "creator": "GradientDescentTV",
+    "caption": "Production ML is 80% data plumbing, and that's fine",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "nlp",
+      "recommendersystems",
+      "deeplearning",
+      "embeddings"
+    ],
+    "category": "AI",
+    "thumbnail_emoji": "🤖",
+    "thumbnail_color": "#7c3aed"
+  },
+  {
+    "id": "reel_053",
+    "title": "Unbelievable patagonia's most underrated hiking trail",
+    "creator": "TangoNights",
+    "caption": "Vamos Argentina 🇦🇷",
+    "tags": [
+      "worldcup",
+      "argentina",
+      "buenosaires"
+    ],
+    "category": "Argentina",
+    "thumbnail_emoji": "🇦🇷",
+    "thumbnail_color": "#75aadb"
+  },
+  {
+    "id": "reel_082",
+    "title": "The clean bug that took 6 hours to find",
+    "creator": "RefactorThis",
+    "caption": "It was a missing semicolon. It's always a missing semicolon.",
+    "tags": [
+      "devlife",
+      "programming",
+      "coding",
+      "cleancode",
+      "softwareengineering",
+      "debugging"
+    ],
+    "category": "Coding",
+    "thumbnail_emoji": "💻",
+    "thumbnail_color": "#4f46e5"
+  },
+  {
+    "id": "reel_195",
+    "title": "Unbelievable rescue cat's first week, day by day",
+    "creator": "CatCafeDaily",
+    "caption": "She owns the apartment, I just pay rent 🐱",
+    "tags": [
+      "catsofinstagram",
+      "catmom",
+      "catlife",
+      "kitten",
+      "funnycats"
+    ],
+    "category": "Cats",
+    "thumbnail_emoji": "🐱",
+    "thumbnail_color": "#7c2d12"
   }
 ]

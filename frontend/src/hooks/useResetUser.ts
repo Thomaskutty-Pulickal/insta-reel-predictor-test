@@ -9,6 +9,7 @@ export function useResetUser(userId: string | undefined) {
     onSuccess: (data) => {
       queryClient.setQueryData(['userProfile', userId], data)
       queryClient.invalidateQueries({ queryKey: ['recommendations', userId] })
+      queryClient.invalidateQueries({ queryKey: ['nearestReels', userId] })
     },
   })
 }

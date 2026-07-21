@@ -27,6 +27,10 @@ export function fetchRecommendations(userId: string, count = 6): Promise<Recomme
   return request(`/users/${userId}/recommendations?count=${count}`)
 }
 
+export function fetchNearestReels(userId: string, count = 10): Promise<RecommendationsResponse> {
+  return request(`/users/${userId}/nearest-reels?count=${count}`)
+}
+
 export function postInteraction(
   userId: string,
   reelId: string,

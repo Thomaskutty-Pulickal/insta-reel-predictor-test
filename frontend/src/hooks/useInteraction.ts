@@ -12,6 +12,9 @@ export function useInteraction(userId: string | undefined) {
       // profile (new interests, new history) - write it straight into the
       // cache instead of triggering a second round trip.
       queryClient.setQueryData(['userProfile', userId], data.user)
+      // The user's embedding just moved, so the nearest-neighbors
+      // visualization is stale - it has no equivalent free ride, so refetch.
+      queryClient.invalidateQueries({ queryKey: ['nearestReels', userId] })
     },
   })
 }

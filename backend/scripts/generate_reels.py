@@ -366,6 +366,22 @@ ADJECTIVES = ["insane", "underrated", "legendary", "unbelievable", "iconic", "qu
 YEARS = ["2022", "2023", "2024"]
 DISTANCES = ["30 yards", "35 yards", "40 yards", "the halfway line"]
 
+
+def _ensure_title_variability(categories: dict) -> None:
+    """A template with no {adj}/{year}/{distance} slot can only ever render
+    as one literal string - with a category needing more reels than it has
+    templates, that guarantees duplicate titles. Give every static template
+    a variable prefix so it can render many different ways instead.
+    """
+    for pool in categories.values():
+        pool["titles"] = [
+            title if "{" in title else "{adj} " + title[0].lower() + title[1:]
+            for title in pool["titles"]
+        ]
+
+
+_ensure_title_variability(CATEGORIES)
+
 TARGET_PER_CATEGORY = {
     "Football": 16,
     "Messi": 14,
@@ -387,11 +403,18 @@ TARGET_PER_CATEGORY = {
 
 
 def fill_template(template: str) -> str:
-    return template.format(
+    text = template.format(
         adj=random.choice(ADJECTIVES),
         year=random.choice(YEARS),
         distance=random.choice(DISTANCES),
     )
+    # Templates without their own placeholder get an {adj} prefix (see
+    # _ensure_title_variability), which leaves the original capitalized
+    # word stranded mid-sentence - capitalize the final render instead.
+    return text[0].upper() + text[1:]
+
+
+MAX_DEDUP_ATTEMPTS = 30
 
 
 def generate_reels() -> list[dict]:
@@ -400,9 +423,20 @@ def generate_reels() -> list[dict]:
 
     for category, pool in CATEGORIES.items():
         count = TARGET_PER_CATEGORY[category]
+        used_titles: set[str] = set()
+
         for _ in range(count):
-            title = fill_template(random.choice(pool["titles"]))
+            # Retry until the rendered title is new within the category -
+            # the title is the primary thing shown in ranked lists, so even
+            # a differing caption doesn't stop a repeat from reading as a
+            # visual duplicate.
+            for _attempt in range(MAX_DEDUP_ATTEMPTS):
+                title = fill_template(random.choice(pool["titles"]))
+                if title not in used_titles:
+                    break
+            used_titles.add(title)
             caption = random.choice(pool["captions"])
+
             creator = random.choice(pool["creators"])
             tag_count = random.randint(3, len(pool["tags"]))
             tags = random.sample(pool["tags"], k=tag_count)

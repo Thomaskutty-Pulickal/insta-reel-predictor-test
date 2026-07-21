@@ -1,8 +1,12 @@
 import { useState } from 'react'
 import { EmbeddingSummary } from '../components/EmbeddingSummary'
 import { ExplanationPanel } from '../components/ExplanationPanel'
+import { InterestBars } from '../components/InterestBars'
+import { NearestReelsList } from '../components/NearestReelsList'
 import { ReelCard } from '../components/ReelCard'
+import { RecentInteractions } from '../components/RecentInteractions'
 import { UserSelector } from '../components/UserSelector'
+import { useNearestReels } from '../hooks/useNearestReels'
 import { useReelFeed } from '../hooks/useReelFeed'
 import { useUserProfile } from '../hooks/useUserProfile'
 import { useUsers } from '../hooks/useUsers'
@@ -17,6 +21,7 @@ export function Dashboard() {
 
   const { data: profile } = useUserProfile(activeUserId)
   const feed = useReelFeed(activeUserId)
+  const nearest = useNearestReels(activeUserId)
 
   return (
     <div className="min-h-screen bg-neutral-950 text-neutral-100">
@@ -33,6 +38,7 @@ export function Dashboard() {
             <UserSelector users={users} selectedUserId={activeUserId} onSelect={setSelectedUserId} />
           )}
           {profile && <EmbeddingSummary profile={profile} />}
+          {profile && <InterestBars interests={profile.interests} />}
         </aside>
 
         <section className="flex flex-1 justify-center">
@@ -47,6 +53,8 @@ export function Dashboard() {
 
         <aside className="flex w-full flex-col gap-6 lg:w-80 lg:shrink-0">
           <ExplanationPanel explanation={feed.current?.explanation} />
+          {profile && <RecentInteractions interactions={profile.recent_interactions} />}
+          <NearestReelsList items={nearest.data?.items ?? []} isLoading={nearest.isLoading} />
         </aside>
       </main>
     </div>
