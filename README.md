@@ -62,18 +62,18 @@ frontend/
 
 ## Status
 
-Work in progress, built incrementally in public. See commit history for
-phase-by-phase progress:
+Built incrementally in public — see commit history for phase-by-phase
+progress:
 
 - [x] Phase 1 — project scaffold
-- [ ] Phase 2 — synthetic reel dataset
-- [ ] Phase 3 — embedding generation
-- [ ] Phase 4 — recommendation service
-- [ ] Phase 5 — online learning
-- [ ] Phase 6 — API wiring
-- [ ] Phase 7 — frontend UI
-- [ ] Phase 8 — live visualizations
-- [ ] Phase 9 — polish
+- [x] Phase 2 — synthetic reel dataset
+- [x] Phase 3 — embedding generation
+- [x] Phase 4 — recommendation service
+- [x] Phase 5 — online learning
+- [x] Phase 6 — API wiring
+- [x] Phase 7 — frontend UI
+- [x] Phase 8 — live visualizations
+- [x] Phase 9 — polish
 
 ## Running locally
 
