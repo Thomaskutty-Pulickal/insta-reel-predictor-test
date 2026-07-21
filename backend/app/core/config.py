@@ -22,6 +22,11 @@ class Settings(BaseSettings):
     skip_current_weight: float = 0.95
     skip_reel_weight: float = 0.05
 
+    # How strongly a stated "dislike" pushes the initial seed embedding away
+    # from that interest, relative to how strongly a "like" pulls toward it.
+    # Kept below 1.0 so a couple of dislikes can't outweigh several likes.
+    dislike_seed_weight: float = 0.5
+
     class Config:
         env_file = ".env"
 

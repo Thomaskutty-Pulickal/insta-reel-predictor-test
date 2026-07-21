@@ -11,6 +11,7 @@ from pathlib import Path
 
 from app.models.reel import Reel
 from app.models.user import UserProfile
+from app.services.embedding_service import compute_reel_embeddings, compute_user_seed_embedding
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
@@ -19,6 +20,13 @@ class DataStore:
     def __init__(self) -> None:
         self._reels: dict[str, Reel] = _load_reels()
         self._users: dict[str, UserProfile] = _load_users()
+
+        # Embeddings are computed once, at process startup, rather than
+        # persisted to disk - this keeps the JSON dataset human-readable and
+        # makes it obvious that the vectors are a live derivation of the text.
+        compute_reel_embeddings(self.list_reels())
+        for user in self.list_users():
+            compute_user_seed_embedding(user)
 
     def get_reel(self, reel_id: str) -> Reel | None:
         return self._reels.get(reel_id)
