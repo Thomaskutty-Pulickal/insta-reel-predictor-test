@@ -1,4 +1,4 @@
-import { AnimatePresence, motion } from 'framer-motion'
+import { AnimatePresence, motion, useMotionValue, useTransform } from 'framer-motion'
 import type { RecommendedReel } from '../types/recommendation'
 import { ReelThumbnail } from './ReelThumbnail'
 
@@ -10,7 +10,14 @@ interface ReelCardProps {
   onSkip: () => void
 }
 
+const SWIPE_THRESHOLD = 120
+
 export function ReelCard({ recommendedReel, isLoading, isMutating, onLike, onSkip }: ReelCardProps) {
+  const x = useMotionValue(0)
+  const rotate = useTransform(x, [-200, 200], [-12, 12])
+  const likeOpacity = useTransform(x, [20, SWIPE_THRESHOLD], [0, 1])
+  const skipOpacity = useTransform(x, [-SWIPE_THRESHOLD, -20], [1, 0])
+
   if (isLoading || !recommendedReel) {
     return (
       <div className="flex h-[600px] w-full max-w-sm items-center justify-center rounded-3xl border border-neutral-800 bg-neutral-900">
@@ -23,16 +30,43 @@ export function ReelCard({ recommendedReel, isLoading, isMutating, onLike, onSki
 
   const { reel, score } = recommendedReel
 
+  function handleDragEnd(_: unknown, info: { offset: { x: number } }) {
+    if (info.offset.x > SWIPE_THRESHOLD) {
+      onLike()
+    } else if (info.offset.x < -SWIPE_THRESHOLD) {
+      onSkip()
+    }
+    x.set(0)
+  }
+
   return (
     <AnimatePresence mode="wait">
       <motion.div
         key={reel.id}
+        drag={isMutating ? false : 'x'}
+        style={{ x, rotate }}
+        dragConstraints={{ left: 0, right: 0 }}
+        dragElastic={0.7}
+        onDragEnd={handleDragEnd}
         initial={{ opacity: 0, scale: 0.96, y: 12 }}
         animate={{ opacity: 1, scale: 1, y: 0 }}
         exit={{ opacity: 0, scale: 0.96 }}
         transition={{ duration: 0.2 }}
-        className="flex w-full max-w-sm flex-col overflow-hidden rounded-3xl border border-neutral-800 bg-neutral-900 shadow-xl shadow-black/40"
+        className="relative flex w-full max-w-sm cursor-grab flex-col overflow-hidden rounded-3xl border border-neutral-800 bg-neutral-900 shadow-xl shadow-black/40 active:cursor-grabbing"
       >
+        <motion.span
+          style={{ opacity: likeOpacity }}
+          className="pointer-events-none absolute left-4 top-4 z-10 rounded-lg border-2 border-emerald-400 px-3 py-1 text-sm font-bold uppercase tracking-wide text-emerald-400"
+        >
+          Like
+        </motion.span>
+        <motion.span
+          style={{ opacity: skipOpacity }}
+          className="pointer-events-none absolute right-4 top-4 z-10 rounded-lg border-2 border-rose-400 px-3 py-1 text-sm font-bold uppercase tracking-wide text-rose-400"
+        >
+          Skip
+        </motion.span>
+
         <ReelThumbnail emoji={reel.thumbnail_emoji} color={reel.thumbnail_color} className="h-64 w-full" />
 
         <div className="flex flex-col gap-3 p-5">

@@ -38,5 +38,6 @@ export function useReelFeed(userId: string | undefined) {
     isMutating: interaction.isPending,
     like: () => respond('like'),
     skip: () => respond('skip'),
+    resetToStart: () => setIndex(0),
   }
 }

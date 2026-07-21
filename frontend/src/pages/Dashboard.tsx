@@ -8,6 +8,7 @@ import { RecentInteractions } from '../components/RecentInteractions'
 import { UserSelector } from '../components/UserSelector'
 import { useNearestReels } from '../hooks/useNearestReels'
 import { useReelFeed } from '../hooks/useReelFeed'
+import { useResetUser } from '../hooks/useResetUser'
 import { useUserProfile } from '../hooks/useUserProfile'
 import { useUsers } from '../hooks/useUsers'
 
@@ -22,14 +23,29 @@ export function Dashboard() {
   const { data: profile } = useUserProfile(activeUserId)
   const feed = useReelFeed(activeUserId)
   const nearest = useNearestReels(activeUserId)
+  const resetUser = useResetUser(activeUserId)
+
+  async function handleReset() {
+    await resetUser.mutateAsync()
+    feed.resetToStart()
+  }
 
   return (
     <div className="min-h-screen bg-neutral-950 text-neutral-100">
-      <header className="border-b border-neutral-900 px-6 py-4">
-        <h1 className="text-lg font-semibold">Reel Recommender Lab</h1>
-        <p className="text-sm text-neutral-500">
-          An embedding-based recommendation engine, visualized live.
-        </p>
+      <header className="flex items-center justify-between border-b border-neutral-900 px-6 py-4">
+        <div>
+          <h1 className="text-lg font-semibold">Reel Recommender Lab</h1>
+          <p className="text-sm text-neutral-500">
+            An embedding-based recommendation engine, visualized live.
+          </p>
+        </div>
+        <button
+          onClick={handleReset}
+          disabled={!activeUserId || resetUser.isPending}
+          className="rounded-lg border border-neutral-800 px-3 py-1.5 text-xs font-medium text-neutral-400 transition hover:border-neutral-700 hover:text-neutral-200 disabled:cursor-not-allowed disabled:opacity-50"
+        >
+          {resetUser.isPending ? 'Resetting…' : 'Reset to seed state'}
+        </button>
       </header>
 
       <main className="mx-auto flex max-w-6xl flex-col gap-6 px-6 py-8 lg:flex-row lg:items-start">
