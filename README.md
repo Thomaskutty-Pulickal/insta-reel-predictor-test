@@ -1,6 +1,9 @@
 # Reel Recommender Lab
 
-https://github.com/user-attachments/assets/fba6c5cb-4852-4f3b-84bb-46dd3129ded9
+
+
+https://github.com/user-attachments/assets/f10b44d1-c411-4507-bb6b-f84d610497b3
+
 
 
 An educational, from-scratch demonstration of how short-video recommendation
