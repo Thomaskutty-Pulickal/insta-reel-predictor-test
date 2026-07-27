@@ -1,5 +1,8 @@
 # Reel Recommender Lab
 
+https://github.com/user-attachments/assets/fba6c5cb-4852-4f3b-84bb-46dd3129ded9
+
+
 An educational, from-scratch demonstration of how short-video recommendation
 engines (Instagram Reels, TikTok, YouTube Shorts) rank content and adapt to a
 viewer in real time — built with embeddings, cosine similarity, and a simple
